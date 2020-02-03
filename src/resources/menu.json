@@ -1,0 +1,1292 @@
+[
+  {
+    "id": 1,
+    "name": "Crispy Fried Spring Rolls (3)",
+    "price": 4.95,
+    "category": "appetizers",
+    "chinese": "酥炸春卷",
+    "vegan": {
+      "price": 4.95
+    }
+  },
+  {
+    "id": 2,
+    "name": "Crispy Fried Taro Root Patties",
+    "category": "appetizers",
+    "price": 5.95,
+    "chinese": "香荔酥卷",
+    "vegan": {
+      "price": 5.95
+    }
+  },
+  {
+    "id": 3,
+    "name": "Crispy Fried Won Tons (6)",
+    "category": "appetizers",
+    "price": 4.95,
+    "chinese": "錦鹵雲呑",
+    "vegan": {
+      "price": 4.95
+    }
+  },
+  {
+    "id": 4,
+    "name": "Steamed or Crispy Fried Pot Stickers",
+    "category": "appetizers",
+    "price": 5.50,
+    "chinese": "香炸鍋貼",
+    "vegan": {
+      "price": 5.50
+    }
+  },
+  {
+    "id": 5,
+    "name": "Puffy Fried Beef Rolls (3)",
+    "category": "appetizers",
+    "price": 4.95,
+    "chinese": "炸牛仔卷",
+    "vegan": {
+      "price": 4.95
+    }
+  },
+  {
+    "id": 6,
+    "name": "Crispy Fried Soft Bean Curds (6)",
+    "category": "appetizers",
+    "price": 5.95,
+    "chinese": "酥炸豆腐",
+    "vegan": {
+      "price": 5.95
+    }
+  },
+  {
+    "id": 7,
+    "name": "Golden Fried Chicken Nuggets",
+    "category": "appetizers",
+    "price": 4.95,
+    "chinese": "炸素雞腿",
+    "vegan": {
+      "price": 4.95
+    }
+  },
+  {
+    "id": 8,
+    "name": "Combo Platter",
+    "category": "appetizers",
+    "price": 18.95,
+    "chinese": "什錦拼盘",
+    "vegan": {
+      "price": 18.95
+    }
+  },
+  {
+    "id": 9,
+    "name": "Stuffed Vegetable Rolls (3)",
+    "category": "appetizers",
+    "price": 10.95,
+    "chinese": "腐皮卷",
+    "vegan": {
+      "price": 10.95
+    }
+  },
+  {
+    "id": 10,
+    "name": "Braised Chicken and Shark Fin Soup",
+    "category": "soups",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "素雞絲生翅",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "Deluxe Kernel Corn Soup",
+    "category": "soups",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "百花粟米羹",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "Asparagus and Kernel Corn Soup",
+    "category": "soups",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "粟米蘆筍羹",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "Kernel Corn and Bean Curd Soup",
+    "category": "soups",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "粟米豆腐羹",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "Kernel Corn and Chicken Soup",
+    "category": "soups",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "粟米素雞湯",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "Seaweed and Bean Curd Soup",
+    "category": "soups",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "紫菜豆腐羹",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 16,
+    "name": "Mixed Vegetable and Bean Curd Soup",
+    "category": "soups",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "豆腐什菜湯",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 17,
+    "name": "Botanic Garden Soup",
+    "category": "soups",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "西湖牛肉羹",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 18,
+    "name": "Mixed Vegetables and Chicken Soup",
+    "category": "soups",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "素雞什菜湯",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 19,
+    "name": "Deluxe Won Ton Soup",
+    "category": "soups",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "雲吞湯",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 20,
+    "name": "Hot and Sour Soup",
+    "category": "soups",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "酸辣湯",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 21,
+    "name": "Creamy Corn Chowder",
+    "category": "soups",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "是日例湯",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 22,
+    "name": "Botanic Feast",
+    "category": "specialties",
+    "price": 12.95,
+    "chinese": "紫竹林上素",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 23,
+    "name": "Bamboo Garden Deluxe",
+    "category": "specialties",
+    "price": 9.95,
+    "chinese": "鲜蔬什錦",
+    "vegan": {
+      "price": 9.95
+    }
+  },
+  {
+    "id": 24,
+    "name": "Fresh Green with Twin Delight",
+    "category": "specialties",
+    "price": 14.95,
+    "chinese": "雙珍唐芥蘭",
+    "vegan": {
+      "price": 14.95
+    }
+  },
+  {
+    "id": 25,
+    "name": "Fresh Asparagus with Twin Delight",
+    "category": "specialties",
+    "price": 14.95,
+    "chinese": "雙珍蘆筍",
+    "vegan": {
+      "price": 14.95
+    }
+  },
+  {
+    "id": 26,
+    "name": "Fresh Enoki Mushrooms with Baby Bok Choy",
+    "category": "specialties",
+    "price": 12.95,
+    "chinese": "鲜金菇鲜蔬",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 27,
+    "name": "Fresh Enoki Mushrooms with Broccoli",
+    "category": "specialties",
+    "price": 12.95,
+    "chinese": "鮮金菇西蘭花",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 28,
+    "name": "Double Fresh",
+    "category": "specialties",
+    "price": 13.95,
+    "chinese": "鮮金菇蘆筍",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 29,
+    "name": "Sauteed Fresh Chinese Greens",
+    "category": "specialties",
+    "price": 11.95,
+    "chinese": "清炒鲜蔬",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 30,
+    "name": "Golden Petals on Jade Platter",
+    "category": "specialties",
+    "price": 12.95,
+    "chinese": "碧綠千層",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 31,
+    "name": "Golden Leaves on Vegetable Platter",
+    "category": "specialties",
+    "price": 12.95,
+    "chinese": "柳絮千絲",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 32,
+    "name": "Buddha’s Imperial Feast",
+    "category": "specialties",
+    "price": 14.95,
+    "chinese": "法海蒲團",
+    "vegan": {
+      "price": 14.95
+    }
+  },
+  {
+    "id": 33,
+    "name": "Buddha’s Imperial White Pearl",
+    "category": "specialties",
+    "price": 12.95,
+    "chinese": "红烧鮑魚菇",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 34,
+    "name": "Buddha’s Black Pearl on Jade Platter",
+    "category": "specialties",
+    "price": 12.95,
+    "chinese": "鮮冬菇鮮蔬",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 35,
+    "name": "Sautéed Eel",
+    "category": "specialties",
+    "price": 12.95,
+    "chinese": "炒鱔糊",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 36,
+    "name": "Sautéed Assorted Mushrooms & Diced Vegetables with Cashew Nuts",
+    "category": "specialties",
+    "price": 12.95,
+    "chinese": "美果菇丁",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 37,
+    "name": "Vegetables Treasure in Golden Pond",
+    "category": "specialties",
+    "price": 12.95,
+    "chinese": "葡汁焗四蔬",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 38,
+    "name": "Vegetables Treasure in Pearly Pond",
+    "category": "specialties",
+    "price": 12.95,
+    "chinese": "椰汁焗四蔬",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 39,
+    "name": "Fresh Green Beans with Twin Delight",
+    "category": "specialties",
+    "price": 13.95,
+    "chinese": "雙珍豆角",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 40,
+    "name": "Sautéed Green Beans with Fresh Shiitake Mushrooms",
+    "category": "specialties",
+    "price": 12.95,
+    "chinese": "鮮冬菇豆角",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 41,
+    "name": "Sautéed Green Beans with Fresh Enoki Mushrooms",
+    "category": "specialties",
+    "price": 12.95,
+    "chinese": "鮮金菇豆角",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 42,
+    "name": "Buddha’s Basket with Precious Nuts",
+    "category": "basket",
+    "price": 12.95,
+    "chinese": "夏果雙鮮",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 43,
+    "name": "Hidden Treasure",
+    "category": "basket",
+    "price": 12.95,
+    "chinese": "四宝藏珍",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 44,
+    "name": "Happy Family",
+    "category": "basket",
+    "price": 13.95,
+    "chinese": "百鵲歸巢",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 45,
+    "name": "Sesame Chicken",
+    "category": "basket",
+    "price": 13.95,
+    "chinese": "芝麻雞球",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 46,
+    "name": "Chicken Sauteed With Mixed Vegetables",
+    "category": "veg",
+    "price": 11.95,
+    "chinese": "素雞炒什錦",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 47,
+    "name": "Stir-Fried Chicken with Snow Peas",
+    "category": "veg",
+    "price": 12.95,
+    "chinese": "雪豆素雞柳",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 48,
+    "name": "Stir-Fried Chicken with Snow Peas, topped w/ Cashews",
+    "category": "veg",
+    "price": 14.95,
+    "chinese": "雪豆果仁雞柳",
+    "vegan": {
+      "price": 14.95
+    }
+  },
+  {
+    "id": 49,
+    "name": "Stir-Fried Chicken with Broccoli",
+    "category": "veg",
+    "price": 11.95,
+    "chinese": "素雞西蘭花",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 50,
+    "name": "Stir-Fried Chicken with Fresh Enoki and Shiitake Mushrooms",
+    "category": "veg",
+    "price": 14.95,
+    "chinese": "雙珍素雞柳",
+    "vegan": {
+      "price": 14.95
+    }
+  },
+  {
+    "id": 51,
+    "name": "Imperial Three Delight",
+    "category": "veg",
+    "price": 11.95,
+    "chinese": "七彩炒三絲",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 52,
+    "name": "Hot and Spicy Chicken",
+    "category": "veg",
+    "price": 11.95,
+    "chinese": "麻辣素雞",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 53,
+    "name": "Ruby Princess",
+    "category": "veg",
+    "price": 13.95,
+    "chinese": "麻辣鲜冬菇雞枊",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 54,
+    "name": "Stir-Fried Beef with Broccoli",
+    "category": "veg",
+    "price": 11.95,
+    "chinese": "素牛肉西蘭花",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 55,
+    "name": "Mongolian Beef",
+    "category": "veg",
+    "price": 12.95,
+    "chinese": "蒙古素牛肉",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 56,
+    "name": "Almond Fried Chicken",
+    "category": "veg",
+    "price": 11.95,
+    "chinese": "杏仁炸素雞",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 57,
+    "name": "Sauteed Almond & Cashew Nut Chicken",
+    "category": "veg",
+    "price": 12.95,
+    "chinese": "腰果杏仁素雞丁",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 58,
+    "name": "Kun Pao Chicken",
+    "category": "veg",
+    "price": 11.95,
+    "chinese": "宮保素雞丁",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 59,
+    "name": "Sauteed Chicken with Green Beans",
+    "category": "veg",
+    "price": 11.95,
+    "chinese": "豆角素雞柳",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 60,
+    "name": "Vegetarian Sausage and Chicken in Black Bean Sauce",
+    "category": "veg",
+    "price": 11.95,
+    "chinese": "豉椒香肠素雞",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 61,
+    "name": "Szechuan Style Fried Chicken",
+    "category": "veg",
+    "price": 11.95,
+    "chinese": "魚香炸素雞",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 62,
+    "name": "Spicy Fried Chicken in Satay Peanut Sauce",
+    "category": "veg",
+    "price": 11.95,
+    "chinese": "沙爹炸素雞",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 63,
+    "name": "Sweet and Sour Pork",
+    "category": "sweetnsour",
+    "price": 10.95,
+    "chinese": "鳯梨咕咾肉",
+    "vegan": {
+      "price": 10.95
+    }
+  },
+  {
+    "id": 64,
+    "name": "Sweet and Sour Chicken",
+    "category": "sweetnsour",
+    "price": 10.95,
+    "chinese": "鳯梨咕咾雞",
+    "vegan": {
+      "price": 10.95
+    }
+  },
+  {
+    "id": 65,
+    "name": "Lemon Chicken",
+    "category": "sweetnsour",
+    "price": 10.95,
+    "chinese": "西檸炸雞",
+    "vegan": {
+      "price": 10.95
+    }
+  },
+  {
+    "id": 66,
+    "name": "Mandarin Chicken",
+    "category": "sweetnsour",
+    "price": 12.95,
+    "chinese": "香橙炸雞",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 67,
+    "name": "General Tso’s Chicken",
+    "category": "sweetnsour",
+    "price": 12.95,
+    "chinese": "左宗棠雞",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 68,
+    "name": "Chili and Pepper Fried Bean Curd",
+    "category": "tofu",
+    "price": 11.95,
+    "chinese": "椒盐豆腐",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 69,
+    "name": "Golden-Fried Bean Curd Nugget",
+    "category": "tofu",
+    "price": 13.95,
+    "chinese": "琵琶豆腐",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 70,
+    "name": "Hot and Spicy Fried Bean Curd Braised w/ Bell Peppers, Broccoli, and Cauliflower",
+    "category": "tofu",
+    "price": 11.95,
+    "chinese": "麻辣豆腐",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 71,
+    "name": "Hot and Spicy Soft Bean Curd (Ma Po Tofu)",
+    "category": "tofu",
+    "price": 11.95,
+    "chinese": "麻婆豆腐",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 72,
+    "name": "Braised Bean Curd with Fresh Shiitake and Enoki Mushrooms",
+    "category": "tofu",
+    "price": 13.95,
+    "chinese": "雙珍豆腐",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 73,
+    "name": "Soft Bean Curd with Chicken in a Brown Sauce",
+    "category": "tofu",
+    "price": 12.95,
+    "chinese": "鲜豆腐雞片",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 74,
+    "name": "Braised Bean Curd with Mixed Vegetables",
+    "category": "tofu",
+    "price": 11.95,
+    "chinese": "八珍豆腐",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 75,
+    "name": "Tofu Skin and Mixed Vegetable in Satay Peanut Sauce",
+    "category": "hotpot",
+    "price": 12.95,
+    "chinese": "沙爹鲜竹煲",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 76,
+    "name": "Szechwan Eggplant",
+    "category": "hotpot",
+    "price": 12.95,
+    "chinese": "魚香茄子煲",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 77,
+    "name": "Szechuan Bean Curd with Mixed Vegetables",
+    "category": "hotpot",
+    "price": 12.95,
+    "chinese": "魚香豆腐什菜煲",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 78,
+    "name": "Szechuan Chicken with Mixed Vegetables",
+    "category": "hotpot",
+    "price": 12.95,
+    "chinese": "魚香素雞什菜煲",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 79,
+    "name": "Braised Chicken and Mixed Vegetables in Satay Peanut Sauce",
+    "category": "hotpot",
+    "price": 12.95,
+    "chinese": "沙爹素雞什菜煲",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 80,
+    "name": "Tofu Skin with Mixed Vegetables in Szechuan Sauce",
+    "category": "hotpot",
+    "price": 12.95,
+    "chinese": "魚香鲜竹煲",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 81,
+    "name": "Braised Soft Bean Curd with Shiitake Mushrooms in Brown Sauce",
+    "category": "hotpot",
+    "price": 13.95,
+    "chinese": "鲜香菇滑豆腐煲",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 82,
+    "name": "Stewed Oyster Mushroom, Vegetables & Chicken in Satay Peanut Sauce",
+    "category": "hotpot",
+    "price": 12.95,
+    "chinese": "沙爹鮑菇素雞煲",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 83,
+    "name": "Stewed Shiitake and Oyster Mushroom with Potato and Carrot in Satay Peanut Sauce",
+    "category": "hotpot",
+    "price": 13.95,
+    "chinese": "油追煲",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 84,
+    "name": "Stewed Mushrooms and Stuffed Vegetable Roll in Satay Peanut Sauce",
+    "category": "hotpot",
+    "price": 12.95,
+    "chinese": "金銀煲",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 85,
+    "name": "Stewed Salmon in Brown Sauce",
+    "category": "hotpot",
+    "price": 14.95,
+    "chinese": "金菇鰻魚煲",
+    "vegan": {
+      "price": 14.95
+    }
+  },
+  {
+    "id": 86,
+    "name": "Stewed Chicken with Potato and Broccoli in Curry Sauce",
+    "category": "hotpot",
+    "price": 12.95,
+    "chinese": "葡汁雞煲",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 87,
+    "name": "Stewed Beef with Potato and Broccoli in Curry Sauce",
+    "category": "hotpot",
+    "price": 12.95,
+    "chinese": "葡汁牛肉煲",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 88,
+    "name": "Smoked Salmon",
+    "category": "sizzle",
+    "price": 13.95,
+    "chinese": "豉汁薑茸鰣魚",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 89,
+    "name": "Chicken and Mixed Vegetables",
+    "category": "sizzle",
+    "price": 14.95,
+    "chinese": "豉汁素雞什莱鐵板鳥冬",
+    "vegan": {
+      "price": 14.95
+    }
+  },
+  {
+    "id": 90,
+    "name": "Spicy Chicken and Mixed Vegetables",
+    "category": "sizzle",
+    "price": 14.95,
+    "chinese": "魚香素雞什菜鐵板鳥冬",
+    "vegan": {
+      "price": 14.95
+    }
+  },
+  {
+    "id": 91,
+    "name": "Combination Skewer",
+    "category": "sizzle",
+    "price": 13.95,
+    "chinese": "沙爹串燒",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 92,
+    "name": "Three Mushroom Chicken Noodle Soup (with Shredded Enoki & Shiitake Mushrooms)",
+    "category": "japanese",
+    "price": 11.95,
+    "chinese": "三菇雞絲鳥冬湯麺",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 93,
+    "name": "Stewed Mushrooms and Vegetables with Shredded Vegetarian Duck Meat Over Noodles with Broth",
+    "category": "japanese",
+    "price": 11.95,
+    "chinese": "雪菜火鴨鳥冬湯麵",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 94,
+    "name": "Braised Fresh Shiitake Mushrooms and Enoki Mushrooms Over Noodles in Broth",
+    "category": "japanese",
+    "price": 11.95,
+    "chinese": "雙珍鳥冬湯麵",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 95,
+    "name": "Chicken and Mixed Vegetables Over Noodles in Broth",
+    "category": "japanese",
+    "price": 11.95,
+    "chinese": "素雞什菜鳥冬湯麵",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 96,
+    "name": "Stir-Fried Japanese Udon Noodles, Chicken and Vegetables in Hot and Spicy Szechuan Sauce",
+    "category": "noodle",
+    "price": 11.95,
+    "chinese": "魚香雞絲炒鳥冬",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 97,
+    "name": "Imperial Style Japanese Noodles",
+    "category": "noodle",
+    "price": 11.95,
+    "chinese": "七彩炒鳥冬",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 98,
+    "name": "Pan-Fried Rice Noodles and Shredded Vegetables in Light Soy Sauce (Chow Fun)",
+    "category": "noodle",
+    "price": 11.95,
+    "chinese": "干炒三絲河粉",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 99,
+    "name": "Buddha’s Style Pan-Fried Rice Noodles (Chow Fun)",
+    "category": "noodle",
+    "price": 13.95,
+    "chinese": "羅漢齋炒河粉",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 100,
+    "name": "Pan-Fried Rice Noodles with Mixed Vegetables in Hot Spicy Szechuan Sauce (Chow Fun)",
+    "category": "noodle",
+    "price": 12.95,
+    "chinese": "魚香什菜炒河粉",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 101,
+    "name": "Pan-Fried Rice Noodles with Chicken and Mixed Vegetables in Hot and Spicy Szechuan Sauce (Chow Fun)",
+    "category": "noodle",
+    "price": 13.95,
+    "chinese": "魚香鸡什莱炒河粉",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 102,
+    "name": "Pan-Fried Rice Noodles with Mushrooms and Mixed Vegetables in Satay Sauce (Chow Fun)",
+    "category": "noodle",
+    "price": 13.95,
+    "chinese": "沙爹三菇炒河粉",
+    "vegan": {
+      "price": 13.95
+    }
+  },
+  {
+    "id": 103,
+    "name": "Buddha’s Style Pan-Fried Crispy Chow Mein",
+    "category": "noodle",
+    "price": 14.95,
+    "chinese": "羅漢斋炒麺",
+    "vegan": {
+      "price": 14.95
+    }
+  },
+  {
+    "id": 104,
+    "name": "Mixed Vegetable Chow Mein (Lo Mein)",
+    "category": "noodle",
+    "price": 10.95,
+    "chinese": "什菜炒麵",
+    "vegan": {
+      "price": 10.95
+    }
+  },
+  {
+    "id": 105,
+    "name": "Chicken Chow Mein (Lo Mein)",
+    "category": "noodle",
+    "price": 11.95,
+    "chinese": "素雞炒麵",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 106,
+    "name": "Gourmet Chow Mein (Lo Mein)",
+    "category": "noodle",
+    "price": 11.95,
+    "chinese": "什錦炒麺",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 107,
+    "name": "Singapore Style Rice Noodles",
+    "category": "noodle",
+    "price": 11.95,
+    "chinese": "星洲炒米粉",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 108,
+    "name": "Stir-Fried Thin Rice Noodles with Shredded Vegetables",
+    "category": "noodle",
+    "price": 11.95,
+    "chinese": "干炒三絲米粉",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 109,
+    "name": "Shanghai Style Rice Pasta",
+    "category": "noodle",
+    "price": 12.95,
+    "chinese": "上海炒年糕",
+    "vegan": {
+      "price": 12.95
+    }
+  },
+  {
+    "id": 110,
+    "name": "Vegetable Fried Rice",
+    "category": "rice",
+    "price": 10.95,
+    "chinese": "菜粒炒饭",
+    "vegan": {
+      "price": 10.95
+    }
+  },
+  {
+    "id": 111,
+    "name": "Diced Mushrooms and Diced Vegetable Fried Rice",
+    "category": "rice",
+    "price": 11.95,
+    "chinese": "菜菇粒炒飯",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 112,
+    "name": "Chicken Fried Rice",
+    "category": "rice",
+    "price": 11.95,
+    "chinese": "雞粒炒饭",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 113,
+    "name": "Gourmet Fried Rice",
+    "category": "rice",
+    "price": 11.95,
+    "chinese": "什錦炒飯",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 114,
+    "name": "Beef Fried Rice",
+    "category": "rice",
+    "price": 11.95,
+    "chinese": "牛肉炒飯",
+    "vegan": {
+      "price": 11.95
+    }
+  },
+  {
+    "id": 115,
+    "name": "Brown Rice",
+    "category": "rice",
+    "price": 1.50,
+    "chinese": "菜粒炒饭",
+    "vegan": {
+      "price": 1.50
+    }
+  },
+  {
+    "id": 116,
+    "name": "White Rice",
+    "category": "rice",
+    "price": 1.50,
+    "chinese": "菜粒炒饭",
+    "vegan": {
+      "price": 1.50
+    }
+  },
+  {
+    "id": 117,
+    "name": "Hot Peanut Pudding",
+    "category": "desserts",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "生磨花生露",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 118,
+    "name": "Hot Peanut and Pecan Pudding",
+    "category": "desserts",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "生磨合桃露",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 119,
+    "name": "Hot Almond Pudding",
+    "category": "desserts",
+    "price": {
+      "small": 5.00,
+      "large": 9.95
+    },
+    "chinese": "生磨杏仁露",
+    "vegan": {
+      "price": {
+        "small": 5.00,
+        "large": 9.95
+      }
+    }
+  },
+  {
+    "id": 120,
+    "name": "Sorbet",
+    "category": "desserts",
+    "price": 2.00,
+    "chinese": "果汁冰",
+    "vegan": {
+      "price": 2.00
+    }
+  }
+]
