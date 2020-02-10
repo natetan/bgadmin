@@ -1,0 +1,29 @@
+.masthead {
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, RGBA(0, 0, 0, 0.61)), url(../../img/bamboo-bg-1.jpg) no-repeat center top;
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 15rem 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+
+  h1 {
+    font-family: "Satisfy", sans-serif;
+    font-size: 65px;
+    color: white;
+  }
+
+  h2 {
+    font-family: "Satisfy", sans-serif;
+    font-size: 45px;
+    color: white;
+  }
+
+  p {
+    font-family: "PT Sans", sans-serif;
+    color: #fcfcfc;
+    font-size: 34px;
+  }
+}

@@ -5,6 +5,7 @@
     "price": 4.95,
     "category": "appetizers",
     "chinese": "酥炸春卷",
+    "spicy": false,
     "vegan": {
       "price": 4.95
     }
@@ -15,6 +16,7 @@
     "category": "appetizers",
     "price": 5.95,
     "chinese": "香荔酥卷",
+    "spicy": false,
     "vegan": {
       "price": 5.95
     }
@@ -25,6 +27,7 @@
     "category": "appetizers",
     "price": 4.95,
     "chinese": "錦鹵雲呑",
+    "spicy": false,
     "vegan": {
       "price": 4.95
     }
@@ -35,6 +38,7 @@
     "category": "appetizers",
     "price": 5.50,
     "chinese": "香炸鍋貼",
+    "spicy": false,
     "vegan": {
       "price": 5.50
     }
@@ -45,9 +49,7 @@
     "category": "appetizers",
     "price": 4.95,
     "chinese": "炸牛仔卷",
-    "vegan": {
-      "price": 4.95
-    }
+    "spicy": false
   },
   {
     "id": 6,
@@ -55,6 +57,7 @@
     "category": "appetizers",
     "price": 5.95,
     "chinese": "酥炸豆腐",
+    "spicy": false,
     "vegan": {
       "price": 5.95
     }
@@ -65,6 +68,7 @@
     "category": "appetizers",
     "price": 4.95,
     "chinese": "炸素雞腿",
+    "spicy": false,
     "vegan": {
       "price": 4.95
     }
@@ -75,9 +79,7 @@
     "category": "appetizers",
     "price": 18.95,
     "chinese": "什錦拼盘",
-    "vegan": {
-      "price": 18.95
-    }
+    "spicy": false
   },
   {
     "id": 9,
@@ -85,6 +87,7 @@
     "category": "appetizers",
     "price": 10.95,
     "chinese": "腐皮卷",
+    "spicy": false,
     "vegan": {
       "price": 10.95
     }
@@ -98,6 +101,7 @@
       "large": 9.95
     },
     "chinese": "素雞絲生翅",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
@@ -114,6 +118,7 @@
       "large": 9.95
     },
     "chinese": "百花粟米羹",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
@@ -130,6 +135,7 @@
       "large": 9.95
     },
     "chinese": "粟米蘆筍羹",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
@@ -146,6 +152,7 @@
       "large": 9.95
     },
     "chinese": "粟米豆腐羹",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
@@ -162,6 +169,7 @@
       "large": 9.95
     },
     "chinese": "粟米素雞湯",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
@@ -178,6 +186,7 @@
       "large": 9.95
     },
     "chinese": "紫菜豆腐羹",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
@@ -194,6 +203,7 @@
       "large": 9.95
     },
     "chinese": "豆腐什菜湯",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
@@ -210,12 +220,7 @@
       "large": 9.95
     },
     "chinese": "西湖牛肉羹",
-    "vegan": {
-      "price": {
-        "small": 5.00,
-        "large": 9.95
-      }
-    }
+    "spicy": false
   },
   {
     "id": 18,
@@ -226,6 +231,7 @@
       "large": 9.95
     },
     "chinese": "素雞什菜湯",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
@@ -242,6 +248,7 @@
       "large": 9.95
     },
     "chinese": "雲吞湯",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
@@ -258,6 +265,7 @@
       "large": 9.95
     },
     "chinese": "酸辣湯",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
@@ -274,10 +282,11 @@
       "large": 9.95
     },
     "chinese": "是日例湯",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
-        "large": 9.95
+        "large": 10.95
       }
     }
   },
@@ -287,6 +296,7 @@
     "category": "specialties",
     "price": 12.95,
     "chinese": "紫竹林上素",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -297,6 +307,7 @@
     "category": "specialties",
     "price": 9.95,
     "chinese": "鲜蔬什錦",
+    "spicy": false,
     "vegan": {
       "price": 9.95
     }
@@ -307,6 +318,7 @@
     "category": "specialties",
     "price": 14.95,
     "chinese": "雙珍唐芥蘭",
+    "spicy": false,
     "vegan": {
       "price": 14.95
     }
@@ -317,6 +329,7 @@
     "category": "specialties",
     "price": 14.95,
     "chinese": "雙珍蘆筍",
+    "spicy": false,
     "vegan": {
       "price": 14.95
     }
@@ -327,6 +340,7 @@
     "category": "specialties",
     "price": 12.95,
     "chinese": "鲜金菇鲜蔬",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -337,6 +351,7 @@
     "category": "specialties",
     "price": 12.95,
     "chinese": "鮮金菇西蘭花",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -347,6 +362,7 @@
     "category": "specialties",
     "price": 13.95,
     "chinese": "鮮金菇蘆筍",
+    "spicy": false,
     "vegan": {
       "price": 13.95
     }
@@ -357,6 +373,7 @@
     "category": "specialties",
     "price": 11.95,
     "chinese": "清炒鲜蔬",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -367,6 +384,7 @@
     "category": "specialties",
     "price": 12.95,
     "chinese": "碧綠千層",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -377,6 +395,7 @@
     "category": "specialties",
     "price": 12.95,
     "chinese": "柳絮千絲",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -387,6 +406,7 @@
     "category": "specialties",
     "price": 14.95,
     "chinese": "法海蒲團",
+    "spicy": false,
     "vegan": {
       "price": 14.95
     }
@@ -397,6 +417,7 @@
     "category": "specialties",
     "price": 12.95,
     "chinese": "红烧鮑魚菇",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -407,6 +428,7 @@
     "category": "specialties",
     "price": 12.95,
     "chinese": "鮮冬菇鮮蔬",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -417,6 +439,7 @@
     "category": "specialties",
     "price": 12.95,
     "chinese": "炒鱔糊",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -427,6 +450,7 @@
     "category": "specialties",
     "price": 12.95,
     "chinese": "美果菇丁",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -437,6 +461,7 @@
     "category": "specialties",
     "price": 12.95,
     "chinese": "葡汁焗四蔬",
+    "spicy": true,
     "vegan": {
       "price": 12.95
     }
@@ -447,6 +472,7 @@
     "category": "specialties",
     "price": 12.95,
     "chinese": "椰汁焗四蔬",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -457,6 +483,7 @@
     "category": "specialties",
     "price": 13.95,
     "chinese": "雙珍豆角",
+    "spicy": false,
     "vegan": {
       "price": 13.95
     }
@@ -467,6 +494,7 @@
     "category": "specialties",
     "price": 12.95,
     "chinese": "鮮冬菇豆角",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -477,6 +505,7 @@
     "category": "specialties",
     "price": 12.95,
     "chinese": "鮮金菇豆角",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -487,6 +516,7 @@
     "category": "basket",
     "price": 12.95,
     "chinese": "夏果雙鮮",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -497,6 +527,7 @@
     "category": "basket",
     "price": 12.95,
     "chinese": "四宝藏珍",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -507,6 +538,7 @@
     "category": "basket",
     "price": 13.95,
     "chinese": "百鵲歸巢",
+    "spicy": true,
     "vegan": {
       "price": 13.95
     }
@@ -517,6 +549,7 @@
     "category": "basket",
     "price": 13.95,
     "chinese": "芝麻雞球",
+    "spicy": false,
     "vegan": {
       "price": 13.95
     }
@@ -527,6 +560,7 @@
     "category": "veg",
     "price": 11.95,
     "chinese": "素雞炒什錦",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -537,6 +571,7 @@
     "category": "veg",
     "price": 12.95,
     "chinese": "雪豆素雞柳",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -547,6 +582,7 @@
     "category": "veg",
     "price": 14.95,
     "chinese": "雪豆果仁雞柳",
+    "spicy": false,
     "vegan": {
       "price": 14.95
     }
@@ -557,6 +593,7 @@
     "category": "veg",
     "price": 11.95,
     "chinese": "素雞西蘭花",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -567,6 +604,7 @@
     "category": "veg",
     "price": 14.95,
     "chinese": "雙珍素雞柳",
+    "spicy": false,
     "vegan": {
       "price": 14.95
     }
@@ -577,6 +615,7 @@
     "category": "veg",
     "price": 11.95,
     "chinese": "七彩炒三絲",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -587,6 +626,7 @@
     "category": "veg",
     "price": 11.95,
     "chinese": "麻辣素雞",
+    "spicy": true,
     "vegan": {
       "price": 11.95
     }
@@ -597,6 +637,7 @@
     "category": "veg",
     "price": 13.95,
     "chinese": "麻辣鲜冬菇雞枊",
+    "spicy": true,
     "vegan": {
       "price": 13.95
     }
@@ -607,6 +648,7 @@
     "category": "veg",
     "price": 11.95,
     "chinese": "素牛肉西蘭花",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -617,6 +659,7 @@
     "category": "veg",
     "price": 12.95,
     "chinese": "蒙古素牛肉",
+    "spicy": true,
     "vegan": {
       "price": 12.95
     }
@@ -627,6 +670,7 @@
     "category": "veg",
     "price": 11.95,
     "chinese": "杏仁炸素雞",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -637,6 +681,7 @@
     "category": "veg",
     "price": 12.95,
     "chinese": "腰果杏仁素雞丁",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -647,6 +692,7 @@
     "category": "veg",
     "price": 11.95,
     "chinese": "宮保素雞丁",
+    "spicy": true,
     "vegan": {
       "price": 11.95
     }
@@ -657,6 +703,7 @@
     "category": "veg",
     "price": 11.95,
     "chinese": "豆角素雞柳",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -667,9 +714,7 @@
     "category": "veg",
     "price": 11.95,
     "chinese": "豉椒香肠素雞",
-    "vegan": {
-      "price": 11.95
-    }
+    "spicy": false
   },
   {
     "id": 61,
@@ -677,6 +722,7 @@
     "category": "veg",
     "price": 11.95,
     "chinese": "魚香炸素雞",
+    "spicy": true,
     "vegan": {
       "price": 11.95
     }
@@ -687,6 +733,7 @@
     "category": "veg",
     "price": 11.95,
     "chinese": "沙爹炸素雞",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -697,9 +744,7 @@
     "category": "sweetnsour",
     "price": 10.95,
     "chinese": "鳯梨咕咾肉",
-    "vegan": {
-      "price": 10.95
-    }
+    "spicy": false
   },
   {
     "id": 64,
@@ -707,6 +752,7 @@
     "category": "sweetnsour",
     "price": 10.95,
     "chinese": "鳯梨咕咾雞",
+    "spicy": false,
     "vegan": {
       "price": 10.95
     }
@@ -717,6 +763,7 @@
     "category": "sweetnsour",
     "price": 10.95,
     "chinese": "西檸炸雞",
+    "spicy": false,
     "vegan": {
       "price": 10.95
     }
@@ -727,6 +774,7 @@
     "category": "sweetnsour",
     "price": 12.95,
     "chinese": "香橙炸雞",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -737,6 +785,7 @@
     "category": "sweetnsour",
     "price": 12.95,
     "chinese": "左宗棠雞",
+    "spicy": true,
     "vegan": {
       "price": 12.95
     }
@@ -747,6 +796,7 @@
     "category": "tofu",
     "price": 11.95,
     "chinese": "椒盐豆腐",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -757,6 +807,7 @@
     "category": "tofu",
     "price": 13.95,
     "chinese": "琵琶豆腐",
+    "spicy": false,
     "vegan": {
       "price": 13.95
     }
@@ -767,6 +818,7 @@
     "category": "tofu",
     "price": 11.95,
     "chinese": "麻辣豆腐",
+    "spicy": true,
     "vegan": {
       "price": 11.95
     }
@@ -777,6 +829,7 @@
     "category": "tofu",
     "price": 11.95,
     "chinese": "麻婆豆腐",
+    "spicy": true,
     "vegan": {
       "price": 11.95
     }
@@ -787,6 +840,7 @@
     "category": "tofu",
     "price": 13.95,
     "chinese": "雙珍豆腐",
+    "spicy": false,
     "vegan": {
       "price": 13.95
     }
@@ -797,6 +851,7 @@
     "category": "tofu",
     "price": 12.95,
     "chinese": "鲜豆腐雞片",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -807,6 +862,7 @@
     "category": "tofu",
     "price": 11.95,
     "chinese": "八珍豆腐",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -817,6 +873,7 @@
     "category": "hotpot",
     "price": 12.95,
     "chinese": "沙爹鲜竹煲",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -827,6 +884,7 @@
     "category": "hotpot",
     "price": 12.95,
     "chinese": "魚香茄子煲",
+    "spicy": true,
     "vegan": {
       "price": 12.95
     }
@@ -837,6 +895,7 @@
     "category": "hotpot",
     "price": 12.95,
     "chinese": "魚香豆腐什菜煲",
+    "spicy": true,
     "vegan": {
       "price": 12.95
     }
@@ -847,6 +906,7 @@
     "category": "hotpot",
     "price": 12.95,
     "chinese": "魚香素雞什菜煲",
+    "spicy": true,
     "vegan": {
       "price": 12.95
     }
@@ -857,6 +917,7 @@
     "category": "hotpot",
     "price": 12.95,
     "chinese": "沙爹素雞什菜煲",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -867,6 +928,7 @@
     "category": "hotpot",
     "price": 12.95,
     "chinese": "魚香鲜竹煲",
+    "spicy": true,
     "vegan": {
       "price": 12.95
     }
@@ -877,6 +939,7 @@
     "category": "hotpot",
     "price": 13.95,
     "chinese": "鲜香菇滑豆腐煲",
+    "spicy": false,
     "vegan": {
       "price": 13.95
     }
@@ -887,6 +950,7 @@
     "category": "hotpot",
     "price": 12.95,
     "chinese": "沙爹鮑菇素雞煲",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -897,6 +961,7 @@
     "category": "hotpot",
     "price": 13.95,
     "chinese": "油追煲",
+    "spicy": false,
     "vegan": {
       "price": 13.95
     }
@@ -907,6 +972,7 @@
     "category": "hotpot",
     "price": 12.95,
     "chinese": "金銀煲",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -917,6 +983,7 @@
     "category": "hotpot",
     "price": 14.95,
     "chinese": "金菇鰻魚煲",
+    "spicy": false,
     "vegan": {
       "price": 14.95
     }
@@ -927,6 +994,7 @@
     "category": "hotpot",
     "price": 12.95,
     "chinese": "葡汁雞煲",
+    "spicy": true,
     "vegan": {
       "price": 12.95
     }
@@ -937,6 +1005,7 @@
     "category": "hotpot",
     "price": 12.95,
     "chinese": "葡汁牛肉煲",
+    "spicy": true,
     "vegan": {
       "price": 12.95
     }
@@ -947,6 +1016,7 @@
     "category": "sizzle",
     "price": 13.95,
     "chinese": "豉汁薑茸鰣魚",
+    "spicy": false,
     "vegan": {
       "price": 13.95
     }
@@ -957,6 +1027,7 @@
     "category": "sizzle",
     "price": 14.95,
     "chinese": "豉汁素雞什莱鐵板鳥冬",
+    "spicy": false,
     "vegan": {
       "price": 14.95
     }
@@ -967,6 +1038,7 @@
     "category": "sizzle",
     "price": 14.95,
     "chinese": "魚香素雞什菜鐵板鳥冬",
+    "spicy": true,
     "vegan": {
       "price": 14.95
     }
@@ -977,9 +1049,7 @@
     "category": "sizzle",
     "price": 13.95,
     "chinese": "沙爹串燒",
-    "vegan": {
-      "price": 13.95
-    }
+    "spicy": false
   },
   {
     "id": 92,
@@ -987,6 +1057,7 @@
     "category": "japanese",
     "price": 11.95,
     "chinese": "三菇雞絲鳥冬湯麺",
+    "spicy": true,
     "vegan": {
       "price": 11.95
     }
@@ -997,6 +1068,7 @@
     "category": "japanese",
     "price": 11.95,
     "chinese": "雪菜火鴨鳥冬湯麵",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -1007,6 +1079,7 @@
     "category": "japanese",
     "price": 11.95,
     "chinese": "雙珍鳥冬湯麵",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -1017,6 +1090,7 @@
     "category": "japanese",
     "price": 11.95,
     "chinese": "素雞什菜鳥冬湯麵",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -1027,9 +1101,7 @@
     "category": "noodle",
     "price": 11.95,
     "chinese": "魚香雞絲炒鳥冬",
-    "vegan": {
-      "price": 11.95
-    }
+    "spicy": true
   },
   {
     "id": 97,
@@ -1037,9 +1109,7 @@
     "category": "noodle",
     "price": 11.95,
     "chinese": "七彩炒鳥冬",
-    "vegan": {
-      "price": 11.95
-    }
+    "spicy": false
   },
   {
     "id": 98,
@@ -1047,6 +1117,7 @@
     "category": "noodle",
     "price": 11.95,
     "chinese": "干炒三絲河粉",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -1057,6 +1128,7 @@
     "category": "noodle",
     "price": 13.95,
     "chinese": "羅漢齋炒河粉",
+    "spicy": false,
     "vegan": {
       "price": 13.95
     }
@@ -1067,6 +1139,7 @@
     "category": "noodle",
     "price": 12.95,
     "chinese": "魚香什菜炒河粉",
+    "spicy": true,
     "vegan": {
       "price": 12.95
     }
@@ -1077,6 +1150,7 @@
     "category": "noodle",
     "price": 13.95,
     "chinese": "魚香鸡什莱炒河粉",
+    "spicy": true,
     "vegan": {
       "price": 13.95
     }
@@ -1087,6 +1161,7 @@
     "category": "noodle",
     "price": 13.95,
     "chinese": "沙爹三菇炒河粉",
+    "spicy": false,
     "vegan": {
       "price": 13.95
     }
@@ -1097,9 +1172,7 @@
     "category": "noodle",
     "price": 14.95,
     "chinese": "羅漢斋炒麺",
-    "vegan": {
-      "price": 14.95
-    }
+    "spicy": false
   },
   {
     "id": 104,
@@ -1107,6 +1180,7 @@
     "category": "noodle",
     "price": 10.95,
     "chinese": "什菜炒麵",
+    "spicy": false,
     "vegan": {
       "price": 10.95
     }
@@ -1117,6 +1191,7 @@
     "category": "noodle",
     "price": 11.95,
     "chinese": "素雞炒麵",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -1127,6 +1202,7 @@
     "category": "noodle",
     "price": 11.95,
     "chinese": "什錦炒麺",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -1137,6 +1213,7 @@
     "category": "noodle",
     "price": 11.95,
     "chinese": "星洲炒米粉",
+    "spicy": true,
     "vegan": {
       "price": 11.95
     }
@@ -1147,6 +1224,7 @@
     "category": "noodle",
     "price": 11.95,
     "chinese": "干炒三絲米粉",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -1157,6 +1235,7 @@
     "category": "noodle",
     "price": 12.95,
     "chinese": "上海炒年糕",
+    "spicy": false,
     "vegan": {
       "price": 12.95
     }
@@ -1167,6 +1246,7 @@
     "category": "rice",
     "price": 10.95,
     "chinese": "菜粒炒饭",
+    "spicy": false,
     "vegan": {
       "price": 10.95
     }
@@ -1177,6 +1257,7 @@
     "category": "rice",
     "price": 11.95,
     "chinese": "菜菇粒炒飯",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -1187,6 +1268,7 @@
     "category": "rice",
     "price": 11.95,
     "chinese": "雞粒炒饭",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -1197,6 +1279,7 @@
     "category": "rice",
     "price": 11.95,
     "chinese": "什錦炒飯",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -1207,6 +1290,7 @@
     "category": "rice",
     "price": 11.95,
     "chinese": "牛肉炒飯",
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }
@@ -1217,6 +1301,7 @@
     "category": "rice",
     "price": 1.50,
     "chinese": "菜粒炒饭",
+    "spicy": false,
     "vegan": {
       "price": 1.50
     }
@@ -1227,6 +1312,7 @@
     "category": "rice",
     "price": 1.50,
     "chinese": "菜粒炒饭",
+    "spicy": false,
     "vegan": {
       "price": 1.50
     }
@@ -1240,6 +1326,7 @@
       "large": 9.95
     },
     "chinese": "生磨花生露",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
@@ -1256,6 +1343,7 @@
       "large": 9.95
     },
     "chinese": "生磨合桃露",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
@@ -1272,6 +1360,7 @@
       "large": 9.95
     },
     "chinese": "生磨杏仁露",
+    "spicy": false,
     "vegan": {
       "price": {
         "small": 5.00,
@@ -1285,6 +1374,7 @@
     "category": "desserts",
     "price": 2.00,
     "chinese": "果汁冰",
+    "spicy": false,
     "vegan": {
       "price": 2.00
     }
