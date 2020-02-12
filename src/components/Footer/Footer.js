@@ -19,7 +19,7 @@ const Footer = () => {
             <Col md={4} className='mb-3 mb-md-0'>
               <Card className='py-4 h-100'>
                 <Card.Body className='text-center'>
-                  <Icon icon={faMapMarkedAlt} color='#64a19d' />
+                  <Icon icon={faMapMarkedAlt} color='#528026' />
                   <h4 className='m-0'>Address</h4>
                   <hr className='my-4' />
                   <div className='small text-black-50'>364 Roy Street</div>
@@ -31,7 +31,7 @@ const Footer = () => {
             <Col md={4} className='mb-3 mb-md-0'>
               <Card className='py-4 h-100'>
                 <Card.Body className='text-center'>
-                  <Icon icon={faEnvelopeOpen} color='#64a19d' />
+                  <Icon icon={faEnvelopeOpen} color='#528026' />
                   <h4 className='m-0'>Email</h4>
                   <hr className='my-4' />
                   <div className='small text-black-50'>bamboogardenseattle@gmail.com</div>
@@ -42,7 +42,7 @@ const Footer = () => {
             <Col md={4} className='mb-3 mb-md-0'>
               <Card className='py-4 h-100'>
                 <Card.Body className='text-center'>
-                  <Icon icon={faMobileAlt} color='#64a19d' />
+                  <Icon icon={faMobileAlt} color='#528026' />
                   <h4 className='m-0'>Phone</h4>
                   <hr className='my-4' />
                   <div className='small text-black-50'>+1 (206) 282-6616</div>

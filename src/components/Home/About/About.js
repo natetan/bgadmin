@@ -2,13 +2,13 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import bg from '../../img/bg-front.jpg';
+import bg from '../../../img/bg-front.jpg';
 import './About.scss';
 
 const About = () => {
   return (
     <section id='about' className='about-page'>
-      <h1 className='mb-4'>The Vegetarian Lifestyle</h1>
+      <h1 className='mb-4'>Vegetarian Cuisine</h1>
       <p className='blurb'>
         Bamboo Garden is a Chinese <b>vegetarian</b> restaurant located in Lower Queen Anne in Seattle. It offers a variety of dishes as well as vegan options.
       </p>

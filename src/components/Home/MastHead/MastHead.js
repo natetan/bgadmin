@@ -1,6 +1,6 @@
 import React from 'react';
 
-import BigButton from '../BigButton/BigButton';
+import BigButton from '../../BigButton/BigButton';
 
 import './MastHead.scss';
 
@@ -9,7 +9,7 @@ const MastHead = () => {
     <header className='masthead'>
       <div className='inner mx-auto my-0 text-center'>
         <h1>Bamboo Garden</h1>
-        <h2>Vegetarian Cuisine</h2>
+        {/* <h2>Vegetarian Cuisine</h2> */}
         <p>Health is our recipe</p>
         <BigButton text='See menu' />
       </div>

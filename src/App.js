@@ -1,16 +1,21 @@
+import { Redirect, Route, Switch } from 'react-router';
 import React from 'react';
 
-import About from './components/About/About';
+
 import Footer from './components/Footer/Footer';
-import MastHead from './components/MastHead/MastHead';
+import Home from './components/Home/Home';
+import Navigation from './components/Navigation/Navigation';
 
 import './App.css';
 
 function App() {
   return (
     <div className='App'>
-      <MastHead />
-      <About />
+      <Navigation />
+      <Switch>
+        <Route exact path='/' component={Home}/>
+        <Redirect to='/' />
+      </Switch>
       <Footer />
     </div>
   );
