@@ -1,6 +1,6 @@
-import Container from 'react-bootstrap/Container';
 import React from 'react';
-import Row from 'react-bootstrap/Row';
+
+import BigButton from '../BigButton/BigButton';
 
 import './MastHead.scss';
 
@@ -10,7 +10,8 @@ const MastHead = () => {
       <div className='inner mx-auto my-0 text-center'>
         <h1>Bamboo Garden</h1>
         <h2>Vegetarian Cuisine</h2>
-        {/* <p>Chinese Vegetarian Cuisine</p> */}
+        <p>Health is our recipe</p>
+        <BigButton text='See menu' />
       </div>
     </header>
   );
