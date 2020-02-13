@@ -9,6 +9,7 @@ import './Menu.scss';
 import menu from '../../resources/menu.json';
 
 import { toMoneyDisplay, toTitleCase } from '../../lib/util/displayUtils';
+import { mainMenuCategories } from '../../lib/constants';
 
 const Menu = () => {
   let categories = {};
@@ -41,7 +42,7 @@ const Menu = () => {
       })
       return (
         <div key={`category-${index}`} className='category-section'>
-          <h2>{toTitleCase(c)}</h2>
+          <h2>{mainMenuCategories[c]}</h2>
           {itemsInCategory}
         </div>
       )
@@ -50,13 +51,15 @@ const Menu = () => {
   }
   let items = getItems();
   return (
-    <div className='menu'>
-      <h1>Menu</h1>
-      <p>See what delicious meals we have to offer!</p>
+    <section className='menu'>
+      <header className='menu-header'>
+        <h1>Menu</h1>
+        <p>See what delicious meals we have to offer!</p>
+      </header>
       <Container>
         {items}
       </Container>
-    </div>
+    </section>
   )
 }
 

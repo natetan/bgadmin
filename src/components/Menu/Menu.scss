@@ -1,9 +1,19 @@
 .menu {
-  margin-top: 5rem;
+  margin-top: 3rem;
+
+  .menu-header {
+    background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, RGBA(0, 0, 0, 0.61)), url(../../img/bamboo-bg-2.jpg) no-repeat center top;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  padding: 100px 0;
+  }
 
   h1,
   p {
     text-align: center;
+    color: white;
   }
 
   h2 {
@@ -13,6 +23,10 @@
   p,
   .category-section {
     margin-bottom: 4rem;
+  }
+
+  .category-section {
+    margin-top: 4rem;
   }
 
   .menu-items {
@@ -28,10 +42,6 @@
     .item-price {
       text-align: right;
     }
-
-    // &:hover {
-    //   border-bottom: 1px solid #528026;
-    // }
   }
 }
 
