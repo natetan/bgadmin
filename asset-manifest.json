@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/bgadmin/static/css/main.eebcef02.chunk.css",
-    "main.js": "/bgadmin/static/js/main.17d76c24.chunk.js",
-    "main.js.map": "/bgadmin/static/js/main.17d76c24.chunk.js.map",
+    "main.css": "/bgadmin/static/css/main.38518553.chunk.css",
+    "main.js": "/bgadmin/static/js/main.82fdc6d9.chunk.js",
+    "main.js.map": "/bgadmin/static/js/main.82fdc6d9.chunk.js.map",
     "runtime-main.js": "/bgadmin/static/js/runtime-main.f5fc3079.js",
     "runtime-main.js.map": "/bgadmin/static/js/runtime-main.f5fc3079.js.map",
     "static/css/2.47e06e2e.chunk.css": "/bgadmin/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.c810270d.chunk.js": "/bgadmin/static/js/2.c810270d.chunk.js",
-    "static/js/2.c810270d.chunk.js.map": "/bgadmin/static/js/2.c810270d.chunk.js.map",
+    "static/js/2.decc927e.chunk.js": "/bgadmin/static/js/2.decc927e.chunk.js",
+    "static/js/2.decc927e.chunk.js.map": "/bgadmin/static/js/2.decc927e.chunk.js.map",
     "index.html": "/bgadmin/index.html",
-    "precache-manifest.33200eefbb98d8618d0e231f64233e48.js": "/bgadmin/precache-manifest.33200eefbb98d8618d0e231f64233e48.js",
+    "precache-manifest.6d4593fd4c32f00ccd2f6d8ab2519361.js": "/bgadmin/precache-manifest.6d4593fd4c32f00ccd2f6d8ab2519361.js",
     "service-worker.js": "/bgadmin/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/bgadmin/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.eebcef02.chunk.css.map": "/bgadmin/static/css/main.eebcef02.chunk.css.map",
-    "static/js/2.c810270d.chunk.js.LICENSE.txt": "/bgadmin/static/js/2.c810270d.chunk.js.LICENSE.txt",
+    "static/css/main.38518553.chunk.css.map": "/bgadmin/static/css/main.38518553.chunk.css.map",
+    "static/js/2.decc927e.chunk.js.LICENSE.txt": "/bgadmin/static/js/2.decc927e.chunk.js.LICENSE.txt",
     "static/media/MastHead.scss": "/bgadmin/static/media/bamboo-bg-1.11ec39f3.jpg",
     "static/media/Contact.scss": "/bgadmin/static/media/bamboo-bg-2.ff9492c2.jpg",
-    "static/media/bg-front.jpg": "/bgadmin/static/media/bg-front.737cc8d6.jpg"
+    "static/media/bg-front.jpg": "/bgadmin/static/media/bg-front.737cc8d6.jpg",
+    "static/media/Menu.scss": "/bgadmin/static/media/chow-mein.f911cbe5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f5fc3079.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.c810270d.chunk.js",
-    "static/css/main.eebcef02.chunk.css",
-    "static/js/main.17d76c24.chunk.js"
+    "static/js/2.decc927e.chunk.js",
+    "static/css/main.38518553.chunk.css",
+    "static/js/main.82fdc6d9.chunk.js"
   ]
 }
