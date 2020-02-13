@@ -446,7 +446,7 @@
   },
   {
     "id": 36,
-    "name": "Sautéed Assorted Mushrooms & Diced Vegetables with Cashew Nuts",
+    "name": "Sautéed Assorted Mushrooms",
     "category": "specialties",
     "price": 12.95,
     "chinese": "美果菇丁",
@@ -490,7 +490,7 @@
   },
   {
     "id": 40,
-    "name": "Sautéed Green Beans with Fresh Shiitake Mushrooms",
+    "name": "Sautéed Green Beans w/ Shiitake Mushrooms",
     "category": "specialties",
     "price": 12.95,
     "chinese": "鮮冬菇豆角",
@@ -501,7 +501,7 @@
   },
   {
     "id": 41,
-    "name": "Sautéed Green Beans with Fresh Enoki Mushrooms",
+    "name": "Sautéed Green Beans w/ Enoki Mushrooms",
     "category": "specialties",
     "price": 12.95,
     "chinese": "鮮金菇豆角",
@@ -578,7 +578,7 @@
   },
   {
     "id": 48,
-    "name": "Stir-Fried Chicken with Snow Peas, topped w/ Cashews",
+    "name": "Stir-Fried Chicken with Snow Peas",
     "category": "veg",
     "price": 14.95,
     "chinese": "雪豆果仁雞柳",
@@ -600,7 +600,7 @@
   },
   {
     "id": 50,
-    "name": "Stir-Fried Chicken with Fresh Enoki and Shiitake Mushrooms",
+    "name": "Stir-Fried Chicken w/ Mushrooms",
     "category": "veg",
     "price": 14.95,
     "chinese": "雙珍素雞柳",
@@ -814,7 +814,7 @@
   },
   {
     "id": 70,
-    "name": "Hot and Spicy Fried Bean Curd Braised w/ Bell Peppers, Broccoli, and Cauliflower",
+    "name": "Hot and Spicy Fried Bean Curd",
     "category": "tofu",
     "price": 11.95,
     "chinese": "麻辣豆腐",
@@ -836,7 +836,7 @@
   },
   {
     "id": 72,
-    "name": "Braised Bean Curd with Fresh Shiitake and Enoki Mushrooms",
+    "name": "Braised Bean Curd w/ Mushrooms",
     "category": "tofu",
     "price": 13.95,
     "chinese": "雙珍豆腐",
@@ -957,7 +957,7 @@
   },
   {
     "id": 83,
-    "name": "Stewed Shiitake and Oyster Mushroom with Potato and Carrot in Satay Peanut Sauce",
+    "name": "Stewed Shiitake and Oyster Mushroom in Satay Peanut Sauce",
     "category": "hotpot",
     "price": 13.95,
     "chinese": "油追煲",
@@ -990,7 +990,7 @@
   },
   {
     "id": 86,
-    "name": "Stewed Chicken with Potato and Broccoli in Curry Sauce",
+    "name": "Curry Chicken with Potato and Broccoli",
     "category": "hotpot",
     "price": 12.95,
     "chinese": "葡汁雞煲",
@@ -1001,7 +1001,7 @@
   },
   {
     "id": 87,
-    "name": "Stewed Beef with Potato and Broccoli in Curry Sauce",
+    "name": "Curry Beef with Potato and Broccoli",
     "category": "hotpot",
     "price": 12.95,
     "chinese": "葡汁牛肉煲",
@@ -1053,7 +1053,7 @@
   },
   {
     "id": 92,
-    "name": "Three Mushroom Chicken Noodle Soup (with Shredded Enoki & Shiitake Mushrooms)",
+    "name": "Three Mushroom Chicken Noodle Soup",
     "category": "japanese",
     "price": 11.95,
     "chinese": "三菇雞絲鳥冬湯麺",
@@ -1064,7 +1064,7 @@
   },
   {
     "id": 93,
-    "name": "Stewed Mushrooms and Vegetables with Shredded Vegetarian Duck Meat Over Noodles with Broth",
+    "name": "Stewed Mushrooms and Vegetables w/ shredded Duck",
     "category": "japanese",
     "price": 11.95,
     "chinese": "雪菜火鴨鳥冬湯麵",
@@ -1075,7 +1075,7 @@
   },
   {
     "id": 94,
-    "name": "Braised Fresh Shiitake Mushrooms and Enoki Mushrooms Over Noodles in Broth",
+    "name": "Braised Shiitake Mushrooms & Enoki Mushrooms",
     "category": "japanese",
     "price": 11.95,
     "chinese": "雙珍鳥冬湯麵",
@@ -1097,7 +1097,7 @@
   },
   {
     "id": 96,
-    "name": "Stir-Fried Japanese Udon Noodles, Chicken and Vegetables in Hot and Spicy Szechuan Sauce",
+    "name": "Szechuan Stir-Fried Japanese Udon Noodles w/ Chicken",
     "category": "noodle",
     "price": 11.95,
     "chinese": "魚香雞絲炒鳥冬",
@@ -1113,7 +1113,7 @@
   },
   {
     "id": 98,
-    "name": "Pan-Fried Rice Noodles and Shredded Vegetables in Light Soy Sauce (Chow Fun)",
+    "name": "Pan-Fried Rice Noodles and Shredded Vegetables",
     "category": "noodle",
     "price": 11.95,
     "chinese": "干炒三絲河粉",
@@ -1124,7 +1124,7 @@
   },
   {
     "id": 99,
-    "name": "Buddha’s Style Pan-Fried Rice Noodles (Chow Fun)",
+    "name": "Buddha’s Style Chow Fun",
     "category": "noodle",
     "price": 13.95,
     "chinese": "羅漢齋炒河粉",
@@ -1135,7 +1135,7 @@
   },
   {
     "id": 100,
-    "name": "Pan-Fried Rice Noodles with Mixed Vegetables in Hot Spicy Szechuan Sauce (Chow Fun)",
+    "name": "Chow Fun with Mixed Vegetables",
     "category": "noodle",
     "price": 12.95,
     "chinese": "魚香什菜炒河粉",
@@ -1146,7 +1146,7 @@
   },
   {
     "id": 101,
-    "name": "Pan-Fried Rice Noodles with Chicken and Mixed Vegetables in Hot and Spicy Szechuan Sauce (Chow Fun)",
+    "name": "Chow Fun with Chicken & Mixed Veg",
     "category": "noodle",
     "price": 13.95,
     "chinese": "魚香鸡什莱炒河粉",
@@ -1157,7 +1157,7 @@
   },
   {
     "id": 102,
-    "name": "Pan-Fried Rice Noodles with Mushrooms and Mixed Vegetables in Satay Sauce (Chow Fun)",
+    "name": "Chow Fun with Mushrooms & Mixed Veg",
     "category": "noodle",
     "price": 13.95,
     "chinese": "沙爹三菇炒河粉",
