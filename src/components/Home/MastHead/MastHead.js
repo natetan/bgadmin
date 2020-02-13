@@ -1,7 +1,4 @@
-import React from 'react';
-import { useHistory } from 'react-router-dom';
-
-import BigButton from '../../BigButton/BigButton';
+import React from 'react';import BigButton from '../../BigButton/BigButton';
 
 import './MastHead.scss';
 
@@ -12,7 +9,7 @@ const MastHead = () => {
         <h1>Bamboo Garden</h1>
         {/* <h2>Vegetarian Cuisine</h2> */}
         <p>Health is our recipe</p>
-        <BigButton text='See menu' to='/menu' />
+        <BigButton disabled={false} text='See menu' to='/menu' />
       </div>
     </header>
   );

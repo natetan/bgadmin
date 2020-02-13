@@ -1,8 +1,7 @@
-import { faGithub, faLinkedinIn, faInstagram } from '@fortawesome/free-brands-svg-icons';
 import { faMapMarkedAlt, faEnvelopeOpen, faMobileAlt } from '@fortawesome/free-solid-svg-icons';
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
-import React, { Fragment } from 'react';
+import React from 'react';
 import Row from 'react-bootstrap/Row';
 import Container from 'react-bootstrap/Container';
 

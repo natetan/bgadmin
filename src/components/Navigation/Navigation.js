@@ -8,7 +8,6 @@ import React from 'react';
 import Icon from '../Icon/Icon';
 
 import './Navigation.scss';
-import Logo from '../../img/bg-logo.png';
 
 const Navigation = props => {
 

@@ -6,6 +6,12 @@
   text-transform: uppercase;
   letter-spacing: 0.15rem;
   border: 0;
+
+}
+
+.disabled {
+  background-color: gray !important;
+  cursor: default;
 }
 
 .btn-primary {
