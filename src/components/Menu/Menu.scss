@@ -1,11 +1,52 @@
 .menu {
   margin-top: 5rem;
 
-  h1, p {
+  h1,
+  p {
     text-align: center;
   }
 
-  .item-name-price {
-    text-align: right;
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  p,
+  .category-section {
+    margin-bottom: 4rem;
+  }
+
+  .menu-items {
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 1px solid #528026;
+
+    .item {
+      span {
+        font-size: 12px;
+      }
+    }
+    .item-price {
+      text-align: right;
+    }
+
+    // &:hover {
+    //   border-bottom: 1px solid #528026;
+    // }
+  }
+}
+
+@media only screen and (min-device-width: 768px) {
+  .menu {
+    .menu-items {
+      .item {
+        span {
+          font-size: 18px;
+        }
+      }
+    }
+
+    h2 {
+      font-size: 2rem;
+    }
   }
 }

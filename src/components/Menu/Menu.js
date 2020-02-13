@@ -8,6 +8,8 @@ import MenuItem from './MenuItem/MenuItem';
 import './Menu.scss';
 import menu from '../../resources/menu.json';
 
+import { toMoneyDisplay, toTitleCase } from '../../lib/util/displayUtils';
+
 const Menu = () => {
   let categories = {};
   menu.forEach(i => {
@@ -17,70 +19,42 @@ const Menu = () => {
     }
     categories[cat].push(i);
   })
-  const doSomething = () => {
+  const getItems = () => {
     let items = Object.keys(categories).map((c, index) => {
       let itemsInCategory = categories[c].map(item => {
         return (
-          <Row key={`item-${item.id}`}>
-            <Col lg='1'>
-              <span className='item-name'>{`${item.id}. `}</span>
+          <Row key={`item-${item.id}`} className='menu-items'>
+            <Col className='item item-id' xs='1' sm='1' md='1' lg='1'>
+              <span>{`${item.id}. `}</span>
             </Col>
-            <Col lg='3'>
-              <span className='item-name'>{`${item.chinese}`}</span>
+            {/* <Col className='item item-chinese' xs='3' sm='3' md='3' lg='3'>
+              <span>{`${item.chinese}`}</span>
+            </Col> */}
+            <Col className='item item-name' xs='9' sm='10' md='10' lg='10'>
+              <span>{item.name}</span>
             </Col>
-            <Col lg='7'>
-              <span className='item-name'>{item.name}</span>
-            </Col>
-            <Col className='item-name-price' lg='1'>
-              <span>{item.price.small ? item.price.large : item.price}</span>
+            <Col className='item item-price' xs='1' sm='1' md='1' lg='1'>
+              <span>{toMoneyDisplay(item.price.small ? item.price.large : item.price)}</span>
             </Col>
           </Row>
         )
       })
       return (
         <div key={`category-${index}`} className='category-section'>
-          <h2>{c}</h2>
+          <h2>{toTitleCase(c)}</h2>
           {itemsInCategory}
         </div>
       )
     });
     return items;
   }
-  const getItems = () => {
-    let res = menu.map(item => {
-      let price = item.price.small ? `S: $${item.price.small} L: $${item.price.large}` : `$${item.price}`;
-      let data = {
-        id: item.id,
-        name: item.name,
-        price: price
-      }
-      return (
-        <Row key={data.id}>
-          <Col lg='1'>
-            <span className='item-name'>{`${item.id}. `}</span>
-          </Col>
-          <Col lg='3'>
-            <span className='item-name'>{`${item.chinese}`}</span>
-          </Col>
-          <Col lg='7'>
-            <span className='item-name'>{item.name}</span>
-          </Col>
-          <Col className='item-name-price' lg='1'>
-            <span>{item.price.small ? item.price.large : item.price}</span>
-          </Col>
-        </Row>
-      )
-    });
-    return res;
-  }
   let items = getItems();
-  let test = doSomething();
   return (
     <div className='menu'>
       <h1>Menu</h1>
       <p>See what delicious meals we have to offer!</p>
       <Container>
-        {test}
+        {items}
       </Container>
     </div>
   )
