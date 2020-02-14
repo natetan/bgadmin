@@ -37,9 +37,10 @@ const MenuItem = props => {
       </>
     )
   }
+
   return (
     <div className='menu-item'>
-      <Card className='box-shadow combo'>
+      <Card className={`box-shadow ${props.data ? 'combo' : ''}`}>
         {content}
       </Card>
     </div>

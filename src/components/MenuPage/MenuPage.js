@@ -5,9 +5,10 @@ import React, { useState } from 'react';
 import Row from 'react-bootstrap/Row';
 
 import { toTitleCase } from '../../lib/util/displayUtils';
+import Dinner from './Dinner/Dinner';
 import FilterItem from './FilterItem/FilterItem';
-import Menu from './Menu/Menu';
 import Lunch from './Lunch/Lunch';
+import Menu from './Menu/Menu';
 
 import './MenuPage.scss';
 import menu from '../../resources/menu.json';
@@ -38,7 +39,7 @@ const MenuPage = () => {
   } else if (filter === 'lunch') {
     menuContent = <Lunch />
   } else {
-    menuContent = <div>dinner not implemented</div>
+    menuContent = <Dinner />
   }
 
   return (
