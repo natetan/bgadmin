@@ -1,29 +1,33 @@
 {
   "files": {
-    "main.css": "/bgadmin/static/css/main.38518553.chunk.css",
-    "main.js": "/bgadmin/static/js/main.82fdc6d9.chunk.js",
-    "main.js.map": "/bgadmin/static/js/main.82fdc6d9.chunk.js.map",
+    "main.css": "/bgadmin/static/css/main.123c8f77.chunk.css",
+    "main.js": "/bgadmin/static/js/main.4aaf0a0e.chunk.js",
+    "main.js.map": "/bgadmin/static/js/main.4aaf0a0e.chunk.js.map",
     "runtime-main.js": "/bgadmin/static/js/runtime-main.f5fc3079.js",
     "runtime-main.js.map": "/bgadmin/static/js/runtime-main.f5fc3079.js.map",
     "static/css/2.47e06e2e.chunk.css": "/bgadmin/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.decc927e.chunk.js": "/bgadmin/static/js/2.decc927e.chunk.js",
-    "static/js/2.decc927e.chunk.js.map": "/bgadmin/static/js/2.decc927e.chunk.js.map",
+    "static/js/2.3a056c7e.chunk.js": "/bgadmin/static/js/2.3a056c7e.chunk.js",
+    "static/js/2.3a056c7e.chunk.js.map": "/bgadmin/static/js/2.3a056c7e.chunk.js.map",
     "index.html": "/bgadmin/index.html",
-    "precache-manifest.6d4593fd4c32f00ccd2f6d8ab2519361.js": "/bgadmin/precache-manifest.6d4593fd4c32f00ccd2f6d8ab2519361.js",
+    "precache-manifest.e4b2189fb38f83c60eb860e1ab313730.js": "/bgadmin/precache-manifest.e4b2189fb38f83c60eb860e1ab313730.js",
     "service-worker.js": "/bgadmin/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/bgadmin/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.38518553.chunk.css.map": "/bgadmin/static/css/main.38518553.chunk.css.map",
-    "static/js/2.decc927e.chunk.js.LICENSE.txt": "/bgadmin/static/js/2.decc927e.chunk.js.LICENSE.txt",
-    "static/media/MastHead.scss": "/bgadmin/static/media/bamboo-bg-1.11ec39f3.jpg",
-    "static/media/Contact.scss": "/bgadmin/static/media/bamboo-bg-2.ff9492c2.jpg",
+    "static/css/main.123c8f77.chunk.css.map": "/bgadmin/static/css/main.123c8f77.chunk.css.map",
+    "static/js/2.3a056c7e.chunk.js.LICENSE.txt": "/bgadmin/static/js/2.3a056c7e.chunk.js.LICENSE.txt",
+    "static/media/bamboo-bg-1.jpg": "/bgadmin/static/media/bamboo-bg-1.11ec39f3.jpg",
+    "static/media/bamboo-bg-2.jpg": "/bgadmin/static/media/bamboo-bg-2.ff9492c2.jpg",
+    "static/media/banner-bg.jpg": "/bgadmin/static/media/banner-bg.73009068.jpg",
     "static/media/bg-front.jpg": "/bgadmin/static/media/bg-front.737cc8d6.jpg",
-    "static/media/Menu.scss": "/bgadmin/static/media/chow-mein.f911cbe5.jpg"
+    "static/media/bg-masthead.jpg": "/bgadmin/static/media/bg-masthead.d3b4a514.jpg",
+    "static/media/chow-mein.jpg": "/bgadmin/static/media/chow-mein.f911cbe5.jpg",
+    "static/media/fried-potstickers.jpg": "/bgadmin/static/media/fried-potstickers.9f82cd22.jpg",
+    "static/media/spring-rolls.jpg": "/bgadmin/static/media/spring-rolls.fcbd2c98.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f5fc3079.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.decc927e.chunk.js",
-    "static/css/main.38518553.chunk.css",
-    "static/js/main.82fdc6d9.chunk.js"
+    "static/js/2.3a056c7e.chunk.js",
+    "static/css/main.123c8f77.chunk.css",
+    "static/js/main.4aaf0a0e.chunk.js"
   ]
 }
