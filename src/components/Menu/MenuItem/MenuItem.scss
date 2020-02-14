@@ -4,8 +4,19 @@
   text-align: center;
 
   .card {
-    min-height: 375px;
-    border: 2px solid #528026;
+    min-height: 300px;
+    // border: 2px solid #528026;
+    border: none;
+
+    .card-text {
+      color: black;
+      margin-bottom: 1rem;
+    }
+
+    img {
+      width: 250px;
+      height: 250px;
+    }
 
     hr {
       border-color: #528026;

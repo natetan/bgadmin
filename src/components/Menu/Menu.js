@@ -8,8 +8,8 @@ import MenuItem from './MenuItem/MenuItem';
 import './Menu.scss';
 import menu from '../../resources/menu.json';
 
-import { toMoneyDisplay, toTitleCase } from '../../lib/util/displayUtils';
-import { mainMenuCategories } from '../../lib/constants';
+import { toMoneyDisplay } from '../../lib/util/displayUtils';
+import { mainMenuCategories, pictures } from '../../lib/constants';
 
 const Menu = () => {
   let categories = {};
@@ -19,7 +19,8 @@ const Menu = () => {
       categories[cat] = [];
     }
     categories[cat].push(i);
-  })
+  });
+
   const getItems = () => {
     let items = Object.keys(categories).map((c, index) => {
       let itemsInCategory = categories[c].map(item => {
@@ -39,11 +40,29 @@ const Menu = () => {
             </Col>
           </Row>
         )
-      })
+      });
+
+      let itemPics = '';
+      if (pictures[c]) {
+        itemPics = pictures[c].map((pic, picIndex) => {
+          let img = require(`../../img/${c}/${pic.path}`);
+          return (
+            <Col key={picIndex} sm='6'>
+              <MenuItem name={pic.name} src={img} />
+            </Col>
+          )
+        })
+      }
       return (
         <div key={`category-${index}`} className='category-section'>
           <h2>{mainMenuCategories[c]}</h2>
           {itemsInCategory}
+          <Container className='pic-container'>
+            <Row>
+              {itemPics}
+            </Row>
+          </Container>
+
         </div>
       )
     });

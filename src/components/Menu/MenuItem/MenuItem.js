@@ -12,19 +12,20 @@ const MenuItem = props => {
   //     return <CustomTag text={t} key={i} />
   //   });
   // }
+  console.log(props.src);
   return (
     <div className='menu-item'>
       <Card className='box-shadow'>
-        <Card.Header>{props.data.id}</Card.Header>
+        {/* <Card.Header>{props.data.id}</Card.Header> */}
         <Card.Body>
           {/* <Card.Title>{props.data.name}</Card.Title> */}
           <Card.Text>
-            {props.data.name}
+            {props.name}
           </Card.Text>
-          <Card.Img src='https://via.placeholder.com/150' />
+          <Card.Img src={props.src} />
           {/* <BigButton text='Learn More' href={props.data.url} /> */}
         </Card.Body>
-        <Card.Footer className='text-muted'>{props.data.price}</Card.Footer>
+        {/* <Card.Footer className='text-muted'>{props.data.price}</Card.Footer> */}
       </Card>
     </div>
   )
