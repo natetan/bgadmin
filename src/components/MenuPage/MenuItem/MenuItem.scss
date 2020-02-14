@@ -1,16 +1,20 @@
 .menu-item {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   margin-bottom: 2rem;
   text-align: center;
 
   .card {
     min-height: 300px;
-    // border: 2px solid #528026;
+
     border: none;
 
     .card-text {
       color: black;
       // margin-bottom: 1rem;
+    }
+
+    &.combo {
+      border: 2px solid #528026;
     }
 
     // img {

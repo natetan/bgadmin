@@ -1,0 +1,111 @@
+{
+  "lunch": [
+    {
+      "name": "Combo A",
+      "items": [
+        "Corn Chowder Soup",
+        "Fried Potsticker",
+        "Vegetable Chow Mein",
+        "Steamed Brown or White Rice",
+        "Stir-Fried Chicken & Broccoli"
+      ],
+      "price": 8.95
+    },
+    {
+      "name": "Combo B",
+      "items": [
+        "Corn Chowder Soup",
+        "Taro Root Patty",
+        "Steamed White Rice",
+        "Chicken Chow Mein",
+        "Almond Fried Chicken & Broccoli"
+      ],
+      "price": 8.95
+    },
+    {
+      "name": "Combo C",
+      "items": [
+        "Corn Chowder Soup",
+        "Spring Roll",
+        "Chicken Fried Rice",
+        "Sweet and Sour Chicken",
+        "Sauteed Green Beans & Broccoli"
+      ],
+      "price": 9.95
+    },
+    {
+      "name": "Combo D",
+      "items": [
+        "Corn Chowder Soup",
+        "Fried Potsticker",
+        "Chicken Fried Rice",
+        "Mongolian Beef",
+        "Sauteed Mixed Fresh Vegetables"
+      ],
+      "price": 10.95
+    },
+    {
+      "name": "Combo E",
+      "items": [
+        "Corn Chowder Soup",
+        "Spring Roll",
+        "Chicken Fried Rice",
+        "Chicken Chow Mein",
+        "General Tso's Chicken"
+      ],
+      "price": 11.95
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Combo A",
+      "items": [
+        "Corn Chowder Soup",
+        "Spring Roll",
+        "Fried Potsticker",
+        "Chicken Fried Rice",
+        "Sweet and Sour Chicken",
+        "Sauteed Mixed Fresh Vegetables"
+      ],
+      "price": 13.95
+    },
+    {
+      "name": "Combo B",
+      "items": [
+        "Corn Chowder Soup",
+        "Spring Roll",
+        "Fried Potsticker",
+        "Chicken Chow Mein",
+        "Almond Fried Chicken",
+        "Sauteed Beef & Broccoli"
+      ],
+      "price": 14.95
+    },
+    {
+      "name": "Combo C",
+      "items": [
+        "Corn Chowder Soup",
+        "Taro Root Patty",
+        "Fried Potsticker",
+        "Mongolian Beef",
+        "Chicken Chow Mein",
+        "Mandarin Chicken",
+        "Sauteed Green Beans & Broccoli"
+      ],
+      "price": 15.95
+    },
+    {
+      "name": "Combo D",
+      "items": [
+        "Corn Chowder Soup",
+        "Spring Roll",
+        "Chicken Nugget",
+        "Taro Root Patty",
+        "Chicken Fried Rice",
+        "Chicken Chow Mein",
+        "General Tao's Chicken"
+      ],
+      "price": 16.95
+    }
+  ]
+}
