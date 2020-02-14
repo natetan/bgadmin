@@ -6,11 +6,13 @@ import Row from 'react-bootstrap/Row';
 
 import { toTitleCase } from '../../lib/util/displayUtils';
 import FilterItem from './FilterItem/FilterItem';
-import MainMenu from './MainMenu/MainMenu';
+import Menu from './Menu/Menu';
+import Lunch from './Lunch/Lunch';
 
-import './Menu.scss';
+import './MenuPage.scss';
+import menu from '../../resources/menu.json';
 
-const Menu = () => {
+const MenuPage = () => {
   const [filter, setFilter] = useState('all');
 
   const handleFilter = id => {
@@ -32,15 +34,15 @@ const Menu = () => {
 
   let menuContent;
   if (filter === 'all') {
-    menuContent = <MainMenu />
+    menuContent = <Menu menu={menu} type='all' />
   } else if (filter === 'lunch') {
-    menuContent = <div>lunch not implemented</div>
+    menuContent = <Lunch />
   } else {
     menuContent = <div>dinner not implemented</div>
   }
 
   return (
-    <section className='menu'>
+    <section className='menu-page'>
       <header className='menu-header'>
         <h1>Menu</h1>
         <p>See what delicious meals we have to offer!</p>
@@ -55,4 +57,4 @@ const Menu = () => {
   )
 }
 
-export default Menu;
+export default MenuPage;

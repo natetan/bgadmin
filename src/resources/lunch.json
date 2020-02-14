@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Udon Noodle Soup",
+    "price": 10.95,
+    "category": "soup",
+    "categoryDisplay": "Soup",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 2,
+    "name": "Chicken Wonton Soup",
+    "price": 10.95,
+    "category": "soup",
+    "categoryDisplay": "Soup",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 3,
+    "name": "Chicken Wonton Udon Noodle Soup",
+    "price": 10.95,
+    "category": "soup",
+    "categoryDisplay": "Soup",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 4,
+    "name": "Three Mushroom and Chicken Noodle Soup",
+    "price": 12.95,
+    "category": "soup",
+    "categoryDisplay": "Soup",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 5,
+    "name": "Beef or Chicken Chow Fun",
+    "price": 11.95,
+    "category": "chowfun",
+    "categoryDisplay": "Chow Fun",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 6,
+    "name": "Dry Beef or Chicken Chow Fun",
+    "price": 11.95,
+    "category": "chowfun",
+    "categoryDisplay": "Chow Fun",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 7,
+    "name": "Special Chow Fun",
+    "price": 13.95,
+    "category": "chowfun",
+    "categoryDisplay": "Chow Fun",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 8,
+    "name": "Beef or Chicken Crispy Chow Mein",
+    "price": 12.95,
+    "category": "chowmein",
+    "categoryDisplay": "Chow Mein",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 9,
+    "name": "Special Crispy Chow Mein",
+    "price": 13.95,
+    "category": "chowmein",
+    "categoryDisplay": "Chow Mein",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 10,
+    "name": "Brocolli Beef or Chicken",
+    "price": 8.95,
+    "category": "rice",
+    "categoryDisplay": "Chicken or Beef + Rice",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 11,
+    "name": "Green Beans Beef or Chicken w/ Black Bean Sauce",
+    "price": 8.95,
+    "category": "rice",
+    "categoryDisplay": "Chicken or Beef + Rice",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 12,
+    "name": "Mongolian Beef",
+    "price": 8.95,
+    "category": "rice",
+    "categoryDisplay": "Chicken or Beef + Rice",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 13,
+    "name": "General Tso's Chicken",
+    "price": 8.95,
+    "category": "rice",
+    "categoryDisplay": "Chicken or Beef + Rice",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 14,
+    "name": "Kun Pao Chicken",
+    "price": 8.95,
+    "category": "rice",
+    "categoryDisplay": "Chicken or Beef + Rice",
+    "spicy": true,
+    "vegan": false
+  },
+  {
+    "id": 15,
+    "name": "Curry Beef or Chicken",
+    "price": 8.95,
+    "category": "rice",
+    "categoryDisplay": "Chicken or Beef + Rice",
+    "spicy": true,
+    "vegan": false
+  },
+  {
+    "id": 16,
+    "name": "Cirspy Beef or Chicken",
+    "price": 8.95,
+    "category": "rice",
+    "categoryDisplay": "Chicken or Beef + Rice",
+    "spicy": false,
+    "vegan": false
+  },
+  {
+    "id": 17,
+    "name": "Cashew Chicken",
+    "price": 8.95,
+    "category": "rice",
+    "categoryDisplay": "Chicken or Beef + Rice",
+    "spicy": false,
+    "vegan": false
+  }
+]

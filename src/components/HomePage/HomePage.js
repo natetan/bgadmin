@@ -3,7 +3,7 @@ import React from 'react';
 import About from './About/About';
 import MastHead from './MastHead/MastHead';
 
-const Home = () => {
+const HomePage = () => {
   return (
     <>
       <MastHead />
@@ -12,4 +12,4 @@ const Home = () => {
   )
 }
 
-export default Home;
+export default HomePage;

@@ -9,11 +9,11 @@ import Row from 'react-bootstrap/Row';
 import BigButton from '../BigButton/BigButton';
 import Loader from '../Loader/Loader';
 
-import './Contact.scss';
+import './ContactPage.scss';
 
 emailjs.init('user_w7OpR6cr0FxxoZtM2LAwi');
 
-const Contact = () => {
+const ContactPage = () => {
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
@@ -139,4 +139,4 @@ const Contact = () => {
   )
 }
 
-export default Contact;
+export default ContactPage;

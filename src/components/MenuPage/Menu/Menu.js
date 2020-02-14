@@ -1,27 +1,19 @@
+import { faPepperHot, faSeedling } from '@fortawesome/free-solid-svg-icons';
+import Col from 'react-bootstrap/Col';
+import Container from 'react-bootstrap/Container';
 import React from 'react';
+import Row from 'react-bootstrap/Row';
 
-import './MainMenu.scss';
-
+import { mainMenuCategories, pictures } from '../../../lib/constants';
+import { toMoneyDisplay } from '../../../lib/util/displayUtils';
 import Icon from '../../Icon/Icon';
 import MenuItem from '../MenuItem/MenuItem';
 
-import './MainMenu.scss';
-import menu from '../../../resources/menu.json';
+import './Menu.scss';
 
-import { mainMenuCategories, pictures } from '../../../lib/constants';
-
-import { faPepperHot, faSeedling } from '@fortawesome/free-solid-svg-icons';
-
-import Col from 'react-bootstrap/Col';
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-
-
-import { toMoneyDisplay } from '../../../lib/util/displayUtils';
-
-const MainMenu = () => {
+const Menu = props => {
   let categories = {};
-  menu.forEach(i => {
+  props.menu.forEach(i => {
     let cat = i.category;
     if (!categories[cat]) {
       categories[cat] = [];
@@ -52,8 +44,8 @@ const MainMenu = () => {
       });
 
       let itemPics = '';
-      if (pictures[c]) {
-        itemPics = pictures[c].map((pic, picIndex) => {
+      if (pictures[props.type] && pictures[props.type][c]) {
+        itemPics = pictures[props.type][c].map((pic, picIndex) => {
           let img = require(`../../../img/${c}/${pic.path}`);
           return (
             <Col key={picIndex} sm='6'>
@@ -64,7 +56,7 @@ const MainMenu = () => {
       }
       return (
         <div key={`category-${index}`} className='category-section'>
-          <h2>{mainMenuCategories[c]}</h2>
+          <h2>{categories[c][0].categoryDisplay}</h2>
           {itemsInCategory}
           <Container className='pic-container'>
             <Row>
@@ -80,10 +72,10 @@ const MainMenu = () => {
   let items = getItems();
 
   return (
-    <Container className='main-menu-section'>
+    <Container className='menu-section'>
       {items}
     </Container>
   )
 }
 
-export default MainMenu;
+export default Menu;

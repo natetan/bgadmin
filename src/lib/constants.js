@@ -15,22 +15,24 @@ const mainMenuCategories = {
 }
 
 const pictures = {
-  appetizers: [
-    // {
-    //   name: 'Fried Potstickers',
-    //   path: 'fried-potstickers.jpg'
-    // },
-    // {
-    //   name: 'Spring Rolls',
-    //   path: 'spring-rolls.jpg'
-    // }
-  ],
-  sweetnsour: [
-    {
-      name: 'Sweet and Sour Chicken',
-      path: 'ss-chicken.png'
-    }
-  ]
+  all: {
+    appetizers: [
+      // {
+      //   name: 'Fried Potstickers',
+      //   path: 'fried-potstickers.jpg'
+      // },
+      // {
+      //   name: 'Spring Rolls',
+      //   path: 'spring-rolls.jpg'
+      // }
+    ],
+    sweetnsour: [
+      {
+        name: 'Sweet and Sour Chicken',
+        path: 'ss-chicken.png'
+      }
+    ]
+  }
 };
 
 module.exports = {

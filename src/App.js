@@ -1,10 +1,10 @@
 import { Redirect, Route, Switch } from 'react-router';
 import React from 'react';
 
-import Contact from './components/Contact/Contact';
+import ContactPage from './components/ContactPage/ContactPage';
 import Footer from './components/Footer/Footer';
-import Home from './components/Home/Home';
-import Menu from './components/Menu/Menu';
+import HomePage from './components/HomePage/HomePage';
+import MenuPage from './components/MenuPage/MenuPage';
 import Navigation from './components/Navigation/Navigation';
 
 import './App.css';
@@ -14,9 +14,9 @@ function App() {
     <div className='App'>
       <Navigation />
       <Switch>
-        <Route exact path='/' component={Home} />
-        <Route path='/menu' component={Menu} />
-        <Route path='/contact' component={Contact} />
+        <Route exact path='/' component={HomePage} />
+        <Route path='/menu' component={MenuPage} />
+        <Route path='/contact' component={ContactPage} />
         <Redirect to='/' />
       </Switch>
       <Footer />
