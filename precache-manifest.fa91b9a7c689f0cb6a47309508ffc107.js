@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "899415fc099fcac91a153ae1ce546514",
+    "revision": "ef518bc124f7cae8c119b931f62bf507",
     "url": "/bgadmin/index.html"
   },
   {
-    "revision": "f6168e911ad3f0a3f6cf",
+    "revision": "a086a95159ef87620ec9",
     "url": "/bgadmin/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "afddfbab527f8162b297",
-    "url": "/bgadmin/static/css/main.123c8f77.chunk.css"
+    "revision": "81aed8202fa2d9fbc291",
+    "url": "/bgadmin/static/css/main.dff16e40.chunk.css"
   },
   {
-    "revision": "f6168e911ad3f0a3f6cf",
-    "url": "/bgadmin/static/js/2.3a056c7e.chunk.js"
+    "revision": "a086a95159ef87620ec9",
+    "url": "/bgadmin/static/js/2.ecbf15c8.chunk.js"
   },
   {
     "revision": "bf23039b4e70a07c5aeb1b4010df3572",
-    "url": "/bgadmin/static/js/2.3a056c7e.chunk.js.LICENSE.txt"
+    "url": "/bgadmin/static/js/2.ecbf15c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "afddfbab527f8162b297",
-    "url": "/bgadmin/static/js/main.4aaf0a0e.chunk.js"
+    "revision": "81aed8202fa2d9fbc291",
+    "url": "/bgadmin/static/js/main.96b9c5df.chunk.js"
   },
   {
     "revision": "d56e144f87fa16fab5cd",
@@ -58,5 +58,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fcbd2c98c79820e27767dd332a9510fd",
     "url": "/bgadmin/static/media/spring-rolls.fcbd2c98.jpg"
+  },
+  {
+    "revision": "0f4bdef28a2b4cff60be2a7bfebd92ec",
+    "url": "/bgadmin/static/media/ss-chicken.0f4bdef2.png"
   }
 ]);
