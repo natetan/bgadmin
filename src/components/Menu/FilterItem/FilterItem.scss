@@ -1,0 +1,17 @@
+.filter-item {
+  padding: 10px;
+  border: 2px solid #528026;
+
+  min-width: 75px;
+  text-align: center;
+  margin-bottom: 0.75rem;
+
+  &.active {
+    color: white;
+    background-color: #528026;
+  }
+
+  &:hover {
+    cursor: pointer;
+  }
+}
