@@ -25,46 +25,14 @@
     font-size: 1.5rem;
   }
 
-  p,
-  .category-section {
+  p {
     margin-bottom: 4rem;
   }
-
-  .category-section {
-    margin-top: 4rem;
-
-    .pic-container {
-      padding: 15px;
-    }
-  }
-
-  .menu-items {
-    margin-left: auto;
-    margin-right: auto;
-    border-bottom: 1px solid #528026;
-
-    .item {
-      span {
-        font-size: 12px;
-      }
-    }
-
-    .item-price {
-      text-align: right;
-    }
-  }
+  
 }
 
 @media only screen and (min-device-width: 768px) {
   .menu {
-    .menu-items {
-      .item {
-        span {
-          font-size: 18px;
-        }
-      }
-    }
-
     h2 {
       font-size: 2rem;
     }
