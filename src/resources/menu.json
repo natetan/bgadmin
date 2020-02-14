@@ -729,7 +729,7 @@
   },
   {
     "id": 62,
-    "name": "Spicy Fried Chicken in Satay Peanut Sauce",
+    "name": "Fried Chicken in Satay Peanut Sauce",
     "category": "veg",
     "price": 11.95,
     "chinese": "沙爹炸素雞",
@@ -1057,7 +1057,7 @@
     "category": "japanese",
     "price": 11.95,
     "chinese": "三菇雞絲鳥冬湯麺",
-    "spicy": true,
+    "spicy": false,
     "vegan": {
       "price": 11.95
     }

@@ -1,15 +1,16 @@
+import { faPepperHot, faSeedling } from '@fortawesome/free-solid-svg-icons';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import React from 'react';
 import Row from 'react-bootstrap/Row';
 
+import { mainMenuCategories, pictures } from '../../lib/constants';
+import { toMoneyDisplay } from '../../lib/util/displayUtils';
+import Icon from '../Icon/Icon';
 import MenuItem from './MenuItem/MenuItem';
 
 import './Menu.scss';
 import menu from '../../resources/menu.json';
-
-import { toMoneyDisplay } from '../../lib/util/displayUtils';
-import { mainMenuCategories, pictures } from '../../lib/constants';
 
 const Menu = () => {
   let categories = {};
@@ -33,7 +34,11 @@ const Menu = () => {
               <span>{`${item.chinese}`}</span>
             </Col> */}
             <Col className='item item-name' xs='9' sm='10' md='10' lg='10'>
-              <span>{item.name}</span>
+              <span>
+                {item.vegan && <Icon icon={faSeedling} size='sm' color='#528026' />}
+                {item.spicy && <Icon icon={faPepperHot} size='sm' color='red' />}
+                {item.name}
+              </span>
             </Col>
             <Col className='item item-price' xs='1' sm='1' md='1' lg='1'>
               <span>{toMoneyDisplay(item.price.small ? item.price.large : item.price)}</span>
@@ -75,7 +80,10 @@ const Menu = () => {
         <h1>Menu</h1>
         <p>See what delicious meals we have to offer!</p>
       </header>
-      <Container>
+      <Container className='menu-filter'>
+      
+      </Container>
+      <Container className='menu-section'>
         {items}
       </Container>
     </section>

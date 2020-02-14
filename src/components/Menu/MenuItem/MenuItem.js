@@ -19,13 +19,13 @@ const MenuItem = props => {
         {/* <Card.Header>{props.data.id}</Card.Header> */}
         <Card.Body>
           {/* <Card.Title>{props.data.name}</Card.Title> */}
+          <Card.Img src={props.src} />
           <Card.Text>
             {props.name}
           </Card.Text>
-          <Card.Img src={props.src} />
           {/* <BigButton text='Learn More' href={props.data.url} /> */}
         </Card.Body>
-        {/* <Card.Footer className='text-muted'>{props.data.price}</Card.Footer> */}
+        {/* <Card.Footer className='text-muted'>{props.name}</Card.Footer> */}
       </Card>
     </div>
   )

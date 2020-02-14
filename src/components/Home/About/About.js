@@ -26,7 +26,7 @@ const About = () => {
             <img className='bg-photo' src={bg} alt='Front of restaurant' />
             <div className='hours'>
               <h3>Opening Hours</h3>
-              <p>Monday to Sunday 11:00 AM - 9:30 PM</p>
+              <p>Monday to Sunday 11:00 AM - 9:45 PM</p>
             </div>
           </Col>
         </Row>

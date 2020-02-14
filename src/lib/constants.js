@@ -16,13 +16,19 @@ const mainMenuCategories = {
 
 const pictures = {
   appetizers: [
+    // {
+    //   name: 'Fried Potstickers',
+    //   path: 'fried-potstickers.jpg'
+    // },
+    // {
+    //   name: 'Spring Rolls',
+    //   path: 'spring-rolls.jpg'
+    // }
+  ],
+  sweetnsour: [
     {
-      name: 'Fried Potstickers',
-      path: 'fried-potstickers.jpg'
-    },
-    {
-      name: 'Spring Rolls',
-      path: 'spring-rolls.jpg'
+      name: 'Sweet and Sour Chicken',
+      path: 'ss-chicken.png'
     }
   ]
 };

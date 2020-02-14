@@ -1,18 +1,15 @@
+import Alert from 'react-bootstrap/Alert';
+import Col from 'react-bootstrap/Col';
+import Container from 'react-bootstrap/Container';
+import emailjs from 'emailjs-com';
+import Form from 'react-bootstrap/Form';
 import React, { useState } from 'react';
+import Row from 'react-bootstrap/Row';
+
+import BigButton from '../BigButton/BigButton';
+import Loader from '../Loader/Loader';
 
 import './Contact.scss';
-
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import Form from 'react-bootstrap/Form';
-import BigButton from '../BigButton/BigButton';
-
-import emailjs from 'emailjs-com';
-
-import Alert from 'react-bootstrap/Alert';
-
-import Loader from '../Loader/Loader';
 
 emailjs.init('user_w7OpR6cr0FxxoZtM2LAwi');
 
