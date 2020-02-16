@@ -2,18 +2,24 @@
   margin-top: 3rem;
 
   .menu-header {
-    background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, RGBA(0, 0, 0, 0.61)), url(../../img/chow-mein.jpg) no-repeat center top;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-size: cover;
-  padding: 100px 0;
+    background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, RGBA(0, 0, 0, 0.61)),
+      url(../../img/chow-mein.jpg) no-repeat center top;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    padding: 100px 0;
   }
 
   .menu-filter {
     padding: 35px;
     margin-top: 1rem;
     margin-bottom: 1rem;
+  }
+
+  .legend {
+    margin-bottom: 2rem;
+    width: 75%;
   }
 
   h1,
@@ -29,13 +35,19 @@
   p {
     margin-bottom: 4rem;
   }
-  
 }
 
 @media only screen and (min-device-width: 768px) {
   .menu-page {
     h2 {
       font-size: 2rem;
+    }
+
+    .legend {
+      width: 100%;
+      span {
+        font-size: 20px;
+      }
     }
   }
 }

@@ -13,6 +13,9 @@ import Menu from './Menu/Menu';
 import './MenuPage.scss';
 import menu from '../../resources/menu.json';
 
+import { faPepperHot, faSeedling } from '@fortawesome/free-solid-svg-icons';
+import Icon from '../Icon/Icon';
+
 const MenuPage = () => {
   const [filter, setFilter] = useState('all');
 
@@ -51,6 +54,20 @@ const MenuPage = () => {
       <Container className='menu-filter'>
         <Row>
           {filterItems}
+        </Row>
+      </Container>
+      <Container className='legend'>
+        <Row>
+          <Col xs='6' md='12'>
+            <span>
+              <Icon icon={faSeedling} size='sm' color='#528026' /> = vegan
+            </span>
+          </Col>
+          <Col xs='6' md='12'>
+            <span>
+              <Icon icon={faPepperHot} size='sm' color='red' /> = spicy
+            </span>
+          </Col>
         </Row>
       </Container>
       {menuContent}
