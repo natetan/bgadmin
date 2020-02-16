@@ -7,7 +7,6 @@ const MastHead = () => {
     <header className='masthead'>
       <div className='inner mx-auto my-0 text-center'>
         <h1>Bamboo Garden</h1>
-        {/* <h2>Vegetarian Cuisine</h2> */}
         <p>Health is our recipe</p>
         <BigButton disabled={false} text='See menu' to='/menu' />
       </div>
