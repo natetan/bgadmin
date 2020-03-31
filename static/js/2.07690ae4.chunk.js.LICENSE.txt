@@ -10,6 +10,42 @@ object-assign
   http://jedwatson.github.io/classnames
 */
 
+/**
+ * @copyright 2013 Sonia Keys
+ * @copyright 2016 commenthol
+ * @license MIT
+ * @module base
+ */
+
+/**
+ * @copyright 2013 Sonia Keys
+ * @copyright 2016 commenthol
+ * @license MIT
+ * @module sexagesimal
+ */
+
+/**
+ * @copyright 2013 Sonia Keys
+ * @copyright 2016 commenthol
+ * @license MIT
+ * @module solstice
+ */
+
+/**
+ * @copyright 2015-present (c) commenthol
+ * @license ISC
+ */
+
+/**
+ * @copyright 2016 commenthol
+ * @license MIT
+ */
+
+/**
+ * @copyright 2016- (c) commenthol
+ * @license ISC
+ */
+
 /** @license React v0.18.0
  * scheduler.production.min.js
  *

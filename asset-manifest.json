@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.4361a4bc.chunk.css",
-    "main.js": "/static/js/main.3061b711.chunk.js",
-    "main.js.map": "/static/js/main.3061b711.chunk.js.map",
+    "main.css": "/static/css/main.44a3c62f.chunk.css",
+    "main.js": "/static/js/main.d0734e27.chunk.js",
+    "main.js.map": "/static/js/main.d0734e27.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c33073a5.js",
     "runtime-main.js.map": "/static/js/runtime-main.c33073a5.js.map",
     "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.afe38475.chunk.js": "/static/js/2.afe38475.chunk.js",
-    "static/js/2.afe38475.chunk.js.map": "/static/js/2.afe38475.chunk.js.map",
+    "static/js/2.07690ae4.chunk.js": "/static/js/2.07690ae4.chunk.js",
+    "static/js/2.07690ae4.chunk.js.map": "/static/js/2.07690ae4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.301e68bc63e6b66c651de83b3c162fc4.js": "/precache-manifest.301e68bc63e6b66c651de83b3c162fc4.js",
+    "precache-manifest.fd87c4f3906bf886c0eec9930566ac84.js": "/precache-manifest.fd87c4f3906bf886c0eec9930566ac84.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.4361a4bc.chunk.css.map": "/static/css/main.4361a4bc.chunk.css.map",
-    "static/js/2.afe38475.chunk.js.LICENSE.txt": "/static/js/2.afe38475.chunk.js.LICENSE.txt",
+    "static/css/main.44a3c62f.chunk.css.map": "/static/css/main.44a3c62f.chunk.css.map",
+    "static/js/2.07690ae4.chunk.js.LICENSE.txt": "/static/js/2.07690ae4.chunk.js.LICENSE.txt",
     "static/media/bamboo-bg-1.jpg": "/static/media/bamboo-bg-1.11ec39f3.jpg",
     "static/media/bamboo-bg-2.jpg": "/static/media/bamboo-bg-2.ff9492c2.jpg",
     "static/media/bamboo-bg-3.jpg": "/static/media/bamboo-bg-3.b76e4e6a.jpg",
     "static/media/banner-bg.jpg": "/static/media/banner-bg.73009068.jpg",
     "static/media/bg-front.jpg": "/static/media/bg-front.737cc8d6.jpg",
     "static/media/bg-masthead.jpg": "/static/media/bg-masthead.d3b4a514.jpg",
+    "static/media/Thanksgiving.scss": "/static/media/bg-thanksgiving-1.01c6df93.jpg",
+    "static/media/chow-mein-2.jpeg": "/static/media/chow-mein-2.9566e985.jpeg",
     "static/media/MenuPage.scss": "/static/media/chow-mein.f911cbe5.jpg",
     "static/media/fried-potstickers.jpg": "/static/media/fried-potstickers.9f82cd22.jpg",
     "static/media/spring-rolls.jpg": "/static/media/spring-rolls.fcbd2c98.jpg",
@@ -28,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.c33073a5.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.afe38475.chunk.js",
-    "static/css/main.4361a4bc.chunk.css",
-    "static/js/main.3061b711.chunk.js"
+    "static/js/2.07690ae4.chunk.js",
+    "static/css/main.44a3c62f.chunk.css",
+    "static/js/main.d0734e27.chunk.js"
   ]
 }
