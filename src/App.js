@@ -15,7 +15,7 @@ function App() {
   return (
     <div className='App'>
       <Navigation />
-      <Notice message={strings['covid-hours']} />
+      <Notice message={strings['goodbye']} />
       <Switch>
         <Route exact path='/' component={HomePage} />
         <Route path='/menu' component={MenuPage} />
