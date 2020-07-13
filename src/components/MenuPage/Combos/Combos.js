@@ -24,6 +24,7 @@ const Combos = props => {
   return (
     <Container className='combo-section'>
       <h1>Combos</h1>
+      <p className='soup-disclaimer'>Soup is not included in takeout orders.</p>
       <Row>
         {foodCombos}
       </Row>

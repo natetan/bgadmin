@@ -1,8 +1,12 @@
 .combo-section {
   margin-bottom: 1rem;
 
-  h1 {
+  h1, .soup-disclaimer {
     color: black !important;
+  }
+
+  .soup-disclaimer {
+    font-style: italic;
     margin-bottom: 2rem;
   }
 }
